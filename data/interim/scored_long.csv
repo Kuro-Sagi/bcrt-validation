@@ -1,0 +1,2401 @@
+pid,item_id,family,answer,correct,resp_type,route,seen
+R_4jkWGYT7ECy8kAR,crt2_q1,CRT2,first place,0.0,1.0,rule_exact_intuitive,0
+R_4jkWGYT7ECy8kAR,crt2_q2,CRT2,8 sheep,1.0,2.0,rule_exact_correct,0
+R_4jkWGYT7ECy8kAR,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_4jkWGYT7ECy8kAR,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4jkWGYT7ECy8kAR,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,0
+R_4jkWGYT7ECy8kAR,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4jkWGYT7ECy8kAR,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4jkWGYT7ECy8kAR,bcrt_q4,BCRT,2.66666666666666 hours,0.0,0.0,rule_other,0
+R_4jkWGYT7ECy8kAR,bcrt_q5,BCRT,his own son,0.0,0.0,rule_other,0
+R_4jkWGYT7ECy8kAR,bcrt_q6,BCRT,"no, but i'm not sure because it doesn't say if anne is married or not",0.0,0.0,rule_other,0
+R_4VJzj3BEMoQSS75,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4VJzj3BEMoQSS75,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4VJzj3BEMoQSS75,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4VJzj3BEMoQSS75,crt2_q4,CRT2,"0, because there is no dirt in a hole",1.0,2.0,rule_phrase_correct,0
+R_4VJzj3BEMoQSS75,bcrt_q1,BCRT,1.5hrs,0.0,0.0,rule_other,0
+R_4VJzj3BEMoQSS75,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4VJzj3BEMoQSS75,bcrt_q3,BCRT,8 days approx,1.0,2.0,rule_numeric_correct,0
+R_4VJzj3BEMoQSS75,bcrt_q4,BCRT,"approx 2hrs, 40 min",0.0,1.0,rule_exact_intuitive,0
+R_4VJzj3BEMoQSS75,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,0
+R_4VJzj3BEMoQSS75,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4EpdmEXYNxaBzKp,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4EpdmEXYNxaBzKp,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4EpdmEXYNxaBzKp,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4EpdmEXYNxaBzKp,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4EpdmEXYNxaBzKp,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_4EpdmEXYNxaBzKp,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,0
+R_4EpdmEXYNxaBzKp,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_4EpdmEXYNxaBzKp,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,0
+R_4EpdmEXYNxaBzKp,bcrt_q5,BCRT,jesus,0.0,0.0,rule_other,0
+R_4EpdmEXYNxaBzKp,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4RTXhjjlqGwpjco,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_4RTXhjjlqGwpjco,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_4RTXhjjlqGwpjco,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4RTXhjjlqGwpjco,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4RTXhjjlqGwpjco,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_4RTXhjjlqGwpjco,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4RTXhjjlqGwpjco,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4RTXhjjlqGwpjco,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4RTXhjjlqGwpjco,bcrt_q5,BCRT,father's son,0.0,0.0,rule_other,0
+R_4RTXhjjlqGwpjco,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9nP1v1oCAVi3ZEY,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9nP1v1oCAVi3ZEY,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9nP1v1oCAVi3ZEY,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9nP1v1oCAVi3ZEY,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9nP1v1oCAVi3ZEY,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9nP1v1oCAVi3ZEY,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9nP1v1oCAVi3ZEY,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9nP1v1oCAVi3ZEY,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9nP1v1oCAVi3ZEY,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9nP1v1oCAVi3ZEY,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4qluSYSvHUIOf2k,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4qluSYSvHUIOf2k,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4qluSYSvHUIOf2k,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4qluSYSvHUIOf2k,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,0
+R_4qluSYSvHUIOf2k,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_4qluSYSvHUIOf2k,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,0
+R_4qluSYSvHUIOf2k,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4qluSYSvHUIOf2k,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4qluSYSvHUIOf2k,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4qluSYSvHUIOf2k,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9onXY2s2JyVJbhv,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9onXY2s2JyVJbhv,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9onXY2s2JyVJbhv,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9onXY2s2JyVJbhv,crt2_q4,CRT2,idk,0.0,0.0,rule_other,0
+R_9onXY2s2JyVJbhv,bcrt_q1,BCRT,an hour,0.0,0.0,rule_other,1
+R_9onXY2s2JyVJbhv,bcrt_q2,BCRT,200,0.0,0.0,rule_other,1
+R_9onXY2s2JyVJbhv,bcrt_q3,BCRT,idk,0.0,0.0,rule_other,0
+R_9onXY2s2JyVJbhv,bcrt_q4,BCRT,idk,0.0,0.0,rule_other,0
+R_9onXY2s2JyVJbhv,bcrt_q5,BCRT,child,0.0,0.0,rule_other,0
+R_9onXY2s2JyVJbhv,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_4HeSPUC68yjFO8N,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4HeSPUC68yjFO8N,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4HeSPUC68yjFO8N,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4HeSPUC68yjFO8N,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,1
+R_4HeSPUC68yjFO8N,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_4HeSPUC68yjFO8N,bcrt_q2,BCRT,400 dollars,1.0,2.0,rule_exact_correct,1
+R_4HeSPUC68yjFO8N,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4HeSPUC68yjFO8N,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,1
+R_4HeSPUC68yjFO8N,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_4HeSPUC68yjFO8N,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_4od1XXDsfRPjEXm,crt2_q1,CRT2,the second place,1.0,2.0,rule_exact_correct,1
+R_4od1XXDsfRPjEXm,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4od1XXDsfRPjEXm,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4od1XXDsfRPjEXm,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4od1XXDsfRPjEXm,bcrt_q1,BCRT,1 and a half hours,1.0,2.0,rule_numeric_correct,1
+R_4od1XXDsfRPjEXm,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4od1XXDsfRPjEXm,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_4od1XXDsfRPjEXm,bcrt_q4,BCRT,160min,0.0,0.0,rule_other,1
+R_4od1XXDsfRPjEXm,bcrt_q5,BCRT,his child,0.0,0.0,rule_other,1
+R_4od1XXDsfRPjEXm,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,1
+R_46sDFz0luDI3hex,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,1
+R_46sDFz0luDI3hex,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_46sDFz0luDI3hex,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_46sDFz0luDI3hex,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_46sDFz0luDI3hex,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_46sDFz0luDI3hex,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_46sDFz0luDI3hex,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_46sDFz0luDI3hex,bcrt_q4,BCRT,just under 3 hours,0.0,0.0,rule_other,0
+R_46sDFz0luDI3hex,bcrt_q5,BCRT,he is looking at his son's portrait,0.0,0.0,rule_other,0
+R_46sDFz0luDI3hex,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4s649qip03SoHtv,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,1
+R_4s649qip03SoHtv,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4s649qip03SoHtv,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_4s649qip03SoHtv,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,1
+R_4s649qip03SoHtv,bcrt_q1,BCRT,1.5h,0.0,0.0,rule_other,0
+R_4s649qip03SoHtv,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4s649qip03SoHtv,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_4s649qip03SoHtv,bcrt_q4,BCRT,4h,0.0,0.0,rule_other,0
+R_4s649qip03SoHtv,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4s649qip03SoHtv,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4n9nWCM2ZXttznb,crt2_q1,CRT2,1st,0.0,1.0,rule_exact_intuitive,1
+R_4n9nWCM2ZXttznb,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4n9nWCM2ZXttznb,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4n9nWCM2ZXttznb,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4n9nWCM2ZXttznb,bcrt_q1,BCRT,1hr 30,1.0,2.0,rule_numeric_correct,0
+R_4n9nWCM2ZXttznb,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,0
+R_4n9nWCM2ZXttznb,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4n9nWCM2ZXttznb,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4n9nWCM2ZXttznb,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4n9nWCM2ZXttznb,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9PBO2RW2Uhn7yYb,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_9PBO2RW2Uhn7yYb,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9PBO2RW2Uhn7yYb,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9PBO2RW2Uhn7yYb,crt2_q4,CRT2,21.195,0.0,1.0,rule_regex_intuitive,0
+R_9PBO2RW2Uhn7yYb,bcrt_q1,BCRT,1.5 hour,0.0,1.0,rule_fuzzy_intuitive,0
+R_9PBO2RW2Uhn7yYb,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9PBO2RW2Uhn7yYb,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_9PBO2RW2Uhn7yYb,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9PBO2RW2Uhn7yYb,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9PBO2RW2Uhn7yYb,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_41NjFgMFB7MhGSU,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_41NjFgMFB7MhGSU,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_41NjFgMFB7MhGSU,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_41NjFgMFB7MhGSU,crt2_q4,CRT2,0 cubic feet,0.0,0.0,rule_other,1
+R_41NjFgMFB7MhGSU,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_41NjFgMFB7MhGSU,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_41NjFgMFB7MhGSU,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,1
+R_41NjFgMFB7MhGSU,bcrt_q4,BCRT,3 rungs will not be covered by water. the rising tide causes ship to float higher.,0.0,0.0,rule_other,0
+R_41NjFgMFB7MhGSU,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_41NjFgMFB7MhGSU,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_4rCqFmyvttIJsWm,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,1
+R_4rCqFmyvttIJsWm,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4rCqFmyvttIJsWm,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4rCqFmyvttIJsWm,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4rCqFmyvttIJsWm,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,1
+R_4rCqFmyvttIJsWm,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_4rCqFmyvttIJsWm,bcrt_q3,BCRT,7,0.0,0.0,rule_other,1
+R_4rCqFmyvttIJsWm,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,1
+R_4rCqFmyvttIJsWm,bcrt_q5,BCRT,it is his son's.,0.0,0.0,rule_other,0
+R_4rCqFmyvttIJsWm,bcrt_q6,BCRT,it is unclear as we don't know if anne is married.,0.0,0.0,rule_other,0
+R_4Ovi2m6ohfWjyD3,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_4Ovi2m6ohfWjyD3,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4Ovi2m6ohfWjyD3,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4Ovi2m6ohfWjyD3,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4Ovi2m6ohfWjyD3,bcrt_q1,BCRT,1 and a half hours,1.0,2.0,rule_numeric_correct,0
+R_4Ovi2m6ohfWjyD3,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4Ovi2m6ohfWjyD3,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4Ovi2m6ohfWjyD3,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_4Ovi2m6ohfWjyD3,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4Ovi2m6ohfWjyD3,bcrt_q6,BCRT,don't know,0.0,0.0,rule_other,0
+R_9rvi3VigpT7nmet,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9rvi3VigpT7nmet,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9rvi3VigpT7nmet,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9rvi3VigpT7nmet,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_9rvi3VigpT7nmet,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9rvi3VigpT7nmet,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9rvi3VigpT7nmet,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9rvi3VigpT7nmet,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_9rvi3VigpT7nmet,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,1
+R_9rvi3VigpT7nmet,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4pDzw3tv0JSJIeL,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4pDzw3tv0JSJIeL,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4pDzw3tv0JSJIeL,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4pDzw3tv0JSJIeL,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,1
+R_4pDzw3tv0JSJIeL,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_4pDzw3tv0JSJIeL,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4pDzw3tv0JSJIeL,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,1
+R_4pDzw3tv0JSJIeL,bcrt_q4,BCRT,the tide will never cover 3 rungs.,1.0,2.0,rule_phrase_correct,1
+R_4pDzw3tv0JSJIeL,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_4pDzw3tv0JSJIeL,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9qVrcNn6GPJONYR,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,0
+R_9qVrcNn6GPJONYR,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9qVrcNn6GPJONYR,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_9qVrcNn6GPJONYR,crt2_q4,CRT2,zero cubic feet,0.0,0.0,rule_other,0
+R_9qVrcNn6GPJONYR,bcrt_q1,BCRT,1 and a half hour,1.0,2.0,rule_numeric_correct,0
+R_9qVrcNn6GPJONYR,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,0
+R_9qVrcNn6GPJONYR,bcrt_q3,BCRT,3,0.0,0.0,rule_other,0
+R_9qVrcNn6GPJONYR,bcrt_q4,BCRT,not sure,0.0,0.0,rule_other,0
+R_9qVrcNn6GPJONYR,bcrt_q5,BCRT,nephew,0.0,0.0,rule_other,0
+R_9qVrcNn6GPJONYR,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_4nCAtz7tZUEK7HU,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4nCAtz7tZUEK7HU,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4nCAtz7tZUEK7HU,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4nCAtz7tZUEK7HU,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,0
+R_4nCAtz7tZUEK7HU,bcrt_q1,BCRT,1 and a half hours,1.0,2.0,rule_numeric_correct,0
+R_4nCAtz7tZUEK7HU,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4nCAtz7tZUEK7HU,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_4nCAtz7tZUEK7HU,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4nCAtz7tZUEK7HU,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4nCAtz7tZUEK7HU,bcrt_q6,BCRT,unable to determine.,0.0,0.0,rule_other,0
+R_9rqxaybI5jjJniN,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_9rqxaybI5jjJniN,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9rqxaybI5jjJniN,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9rqxaybI5jjJniN,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9rqxaybI5jjJniN,bcrt_q1,BCRT,1.5h,0.0,0.0,rule_other,0
+R_9rqxaybI5jjJniN,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9rqxaybI5jjJniN,bcrt_q3,BCRT,8days,1.0,2.0,rule_numeric_correct,1
+R_9rqxaybI5jjJniN,bcrt_q4,BCRT,3h,0.0,0.0,rule_other,0
+R_9rqxaybI5jjJniN,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9rqxaybI5jjJniN,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9dEoPRV5JbfOXpD,crt2_q1,CRT2,you are now in second place,1.0,2.0,rule_exact_correct,0
+R_9dEoPRV5JbfOXpD,crt2_q2,CRT2,8 sheep** remain alive.,1.0,2.0,rule_fuzzy_correct,0
+R_9dEoPRV5JbfOXpD,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9dEoPRV5JbfOXpD,crt2_q4,CRT2,2.25cubic feet,0.0,0.0,rule_other,0
+R_9dEoPRV5JbfOXpD,bcrt_q1,BCRT,90 minutes,0.0,1.0,rule_exact_intuitive,1
+R_9dEoPRV5JbfOXpD,bcrt_q2,BCRT,the man made a total profit of **$500**.,0.0,0.0,rule_other,0
+R_9dEoPRV5JbfOXpD,bcrt_q3,BCRT,the snail will reach the top of the 10-foot wall in 8 days,0.0,0.0,rule_other,0
+R_9dEoPRV5JbfOXpD,bcrt_q4,BCRT,**4 hours** are needed for the rising tide to cover 3 rungs of the ladder.,0.0,0.0,rule_other,0
+R_9dEoPRV5JbfOXpD,bcrt_q5,BCRT,the man is looking at a portrait of **his son**.,0.0,0.0,rule_other,0
+R_9dEoPRV5JbfOXpD,bcrt_q6,BCRT,"yes**, a married person (jack) is looking at an unmarried person (george).",1.0,2.0,rule_phrase_correct,0
+R_48H5gk6KZzuoe1V,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_48H5gk6KZzuoe1V,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_48H5gk6KZzuoe1V,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_48H5gk6KZzuoe1V,crt2_q4,CRT2,no dirt,1.0,2.0,rule_exact_correct,1
+R_48H5gk6KZzuoe1V,bcrt_q1,BCRT,1,1.0,2.0,rule_exact_correct,1
+R_48H5gk6KZzuoe1V,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_48H5gk6KZzuoe1V,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_48H5gk6KZzuoe1V,bcrt_q4,BCRT,the rungs will never be covered further,1.0,2.0,rule_phrase_correct,1
+R_48H5gk6KZzuoe1V,bcrt_q5,BCRT,son,1.0,2.0,rule_exact_correct,1
+R_48H5gk6KZzuoe1V,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9uW0SHafhi4vixt,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,0
+R_9uW0SHafhi4vixt,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9uW0SHafhi4vixt,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9uW0SHafhi4vixt,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9uW0SHafhi4vixt,bcrt_q1,BCRT,1.5h,0.0,0.0,rule_other,0
+R_9uW0SHafhi4vixt,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9uW0SHafhi4vixt,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9uW0SHafhi4vixt,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,0
+R_9uW0SHafhi4vixt,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9uW0SHafhi4vixt,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9ncGoQdVn4dUlmm,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9ncGoQdVn4dUlmm,crt2_q2,CRT2,8 sheep,1.0,2.0,rule_exact_correct,1
+R_9ncGoQdVn4dUlmm,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9ncGoQdVn4dUlmm,crt2_q4,CRT2,0 cubic feet of dirt since there's no dirt in a hole,1.0,2.0,rule_phrase_correct,0
+R_9ncGoQdVn4dUlmm,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_9ncGoQdVn4dUlmm,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_9ncGoQdVn4dUlmm,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_9ncGoQdVn4dUlmm,bcrt_q4,BCRT,they will never be covered because the ladder rises with the tide,1.0,2.0,rule_phrase_correct,0
+R_9ncGoQdVn4dUlmm,bcrt_q5,BCRT,his son's portrait,0.0,0.0,rule_other,1
+R_9ncGoQdVn4dUlmm,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9IYxSYxjx5h2jMM,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9IYxSYxjx5h2jMM,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9IYxSYxjx5h2jMM,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9IYxSYxjx5h2jMM,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9IYxSYxjx5h2jMM,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_9IYxSYxjx5h2jMM,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9IYxSYxjx5h2jMM,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9IYxSYxjx5h2jMM,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,0
+R_9IYxSYxjx5h2jMM,bcrt_q5,BCRT,jesus,0.0,0.0,rule_other,0
+R_9IYxSYxjx5h2jMM,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9jGQkrcYf5X8zyV,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_9jGQkrcYf5X8zyV,crt2_q2,CRT2,7 sheep,0.0,1.0,rule_exact_intuitive,0
+R_9jGQkrcYf5X8zyV,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9jGQkrcYf5X8zyV,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,0
+R_9jGQkrcYf5X8zyV,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9jGQkrcYf5X8zyV,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_9jGQkrcYf5X8zyV,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9jGQkrcYf5X8zyV,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_9jGQkrcYf5X8zyV,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9jGQkrcYf5X8zyV,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4RTYxFTZ4Y0JCgj,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_4RTYxFTZ4Y0JCgj,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4RTYxFTZ4Y0JCgj,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4RTYxFTZ4Y0JCgj,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4RTYxFTZ4Y0JCgj,bcrt_q1,BCRT,1 hour 30 minutes,1.0,2.0,rule_numeric_correct,0
+R_4RTYxFTZ4Y0JCgj,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4RTYxFTZ4Y0JCgj,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4RTYxFTZ4Y0JCgj,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4RTYxFTZ4Y0JCgj,bcrt_q5,BCRT,his own son,0.0,0.0,rule_other,0
+R_4RTYxFTZ4Y0JCgj,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9j0z8JXT8CPjNa9,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_9j0z8JXT8CPjNa9,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9j0z8JXT8CPjNa9,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9j0z8JXT8CPjNa9,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,0
+R_9j0z8JXT8CPjNa9,bcrt_q1,BCRT,1 hour and 30 minutes,1.0,2.0,rule_numeric_correct,0
+R_9j0z8JXT8CPjNa9,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_9j0z8JXT8CPjNa9,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9j0z8JXT8CPjNa9,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9j0z8JXT8CPjNa9,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9j0z8JXT8CPjNa9,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9tx5ryf4EHIGS7l,crt2_q1,CRT2,in first place,0.0,1.0,rule_exact_intuitive,1
+R_9tx5ryf4EHIGS7l,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9tx5ryf4EHIGS7l,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_9tx5ryf4EHIGS7l,crt2_q4,CRT2,90,0.0,1.0,rule_regex_intuitive,1
+R_9tx5ryf4EHIGS7l,bcrt_q1,BCRT,6 hours,0.0,0.0,rule_other,1
+R_9tx5ryf4EHIGS7l,bcrt_q2,BCRT,100,0.0,0.0,rule_other,1
+R_9tx5ryf4EHIGS7l,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,1
+R_9tx5ryf4EHIGS7l,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,1
+R_9tx5ryf4EHIGS7l,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_9tx5ryf4EHIGS7l,bcrt_q6,BCRT,no.maybe anne is his mummy.,0.0,0.0,rule_other,1
+R_93ghrbs9UkMfX8J,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,0
+R_93ghrbs9UkMfX8J,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_93ghrbs9UkMfX8J,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_93ghrbs9UkMfX8J,crt2_q4,CRT2,none,1.0,2.0,rule_exact_correct,0
+R_93ghrbs9UkMfX8J,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_93ghrbs9UkMfX8J,bcrt_q2,BCRT,500,0.0,0.0,rule_other,0
+R_93ghrbs9UkMfX8J,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_93ghrbs9UkMfX8J,bcrt_q4,BCRT,the rungs will never be recovered,1.0,2.0,rule_phrase_correct,0
+R_93ghrbs9UkMfX8J,bcrt_q5,BCRT,portrait of his son,0.0,0.0,rule_other,0
+R_93ghrbs9UkMfX8J,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4uDGi9a0ycjkTF3,crt2_q1,CRT2,first place!,0.0,1.0,rule_fuzzy_intuitive,1
+R_4uDGi9a0ycjkTF3,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4uDGi9a0ycjkTF3,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4uDGi9a0ycjkTF3,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4uDGi9a0ycjkTF3,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_4uDGi9a0ycjkTF3,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,1
+R_4uDGi9a0ycjkTF3,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4uDGi9a0ycjkTF3,bcrt_q4,BCRT,4,0.0,0.0,rule_other,1
+R_4uDGi9a0ycjkTF3,bcrt_q5,BCRT,his son.,1.0,2.0,rule_fuzzy_correct,1
+R_4uDGi9a0ycjkTF3,bcrt_q6,BCRT,"can't tell - jack (m) -> anne and anne -> george (um), but anne is neither confirmed to be married or unmarried.",0.0,0.0,rule_other,1
+R_9ZAOmb32UlCKiNr,crt2_q1,CRT2,no1,0.0,0.0,rule_other,1
+R_9ZAOmb32UlCKiNr,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9ZAOmb32UlCKiNr,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9ZAOmb32UlCKiNr,crt2_q4,CRT2,18,0.0,1.0,rule_regex_intuitive,1
+R_9ZAOmb32UlCKiNr,bcrt_q1,BCRT,1hour,1.0,2.0,rule_numeric_correct,1
+R_9ZAOmb32UlCKiNr,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9ZAOmb32UlCKiNr,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_9ZAOmb32UlCKiNr,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,1
+R_9ZAOmb32UlCKiNr,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,1
+R_9ZAOmb32UlCKiNr,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,1
+R_4RWEXebBoYvE0NO,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_4RWEXebBoYvE0NO,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4RWEXebBoYvE0NO,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4RWEXebBoYvE0NO,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4RWEXebBoYvE0NO,bcrt_q1,BCRT,1.5 hr,0.0,0.0,rule_other,0
+R_4RWEXebBoYvE0NO,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4RWEXebBoYvE0NO,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_4RWEXebBoYvE0NO,bcrt_q4,BCRT,4 hour,0.0,1.0,rule_fuzzy_intuitive,0
+R_4RWEXebBoYvE0NO,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4RWEXebBoYvE0NO,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9rpBq7JtZNZ0MRl,crt2_q1,CRT2,first place,0.0,1.0,rule_exact_intuitive,1
+R_9rpBq7JtZNZ0MRl,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9rpBq7JtZNZ0MRl,crt2_q3,CRT2,june? if it's following this naming convention,0.0,0.0,rule_other,0
+R_9rpBq7JtZNZ0MRl,crt2_q4,CRT2,3,0.0,1.0,rule_regex_intuitive,0
+R_9rpBq7JtZNZ0MRl,bcrt_q1,BCRT,half an hour,0.0,0.0,rule_other,0
+R_9rpBq7JtZNZ0MRl,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9rpBq7JtZNZ0MRl,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9rpBq7JtZNZ0MRl,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9rpBq7JtZNZ0MRl,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,0
+R_9rpBq7JtZNZ0MRl,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9QdZGbw9eGv7onD,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_9QdZGbw9eGv7onD,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9QdZGbw9eGv7onD,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9QdZGbw9eGv7onD,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9QdZGbw9eGv7onD,bcrt_q1,BCRT,1 hour and a half,1.0,2.0,rule_numeric_correct,0
+R_9QdZGbw9eGv7onD,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9QdZGbw9eGv7onD,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9QdZGbw9eGv7onD,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_9QdZGbw9eGv7onD,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9QdZGbw9eGv7onD,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9ByyIa2303GfW0A,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9ByyIa2303GfW0A,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9ByyIa2303GfW0A,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9ByyIa2303GfW0A,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9ByyIa2303GfW0A,bcrt_q1,BCRT,half hour,0.0,0.0,rule_other,0
+R_9ByyIa2303GfW0A,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9ByyIa2303GfW0A,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_9ByyIa2303GfW0A,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,0
+R_9ByyIa2303GfW0A,bcrt_q5,BCRT,the child of the man,0.0,0.0,rule_other,0
+R_9ByyIa2303GfW0A,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_90r7lA63og2GuKL,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_90r7lA63og2GuKL,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_90r7lA63og2GuKL,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_90r7lA63og2GuKL,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_90r7lA63og2GuKL,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_90r7lA63og2GuKL,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_90r7lA63og2GuKL,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_90r7lA63og2GuKL,bcrt_q4,BCRT,60cm,0.0,0.0,rule_other,0
+R_90r7lA63og2GuKL,bcrt_q5,BCRT,nephew,0.0,0.0,rule_other,0
+R_90r7lA63og2GuKL,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9ly8qis9dlrc9ar,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_9ly8qis9dlrc9ar,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9ly8qis9dlrc9ar,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9ly8qis9dlrc9ar,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9ly8qis9dlrc9ar,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,0
+R_9ly8qis9dlrc9ar,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9ly8qis9dlrc9ar,bcrt_q3,BCRT,"((3-2) x days) = 7, then plus 1 so on the 8th day",0.0,0.0,rule_other,0
+R_9ly8qis9dlrc9ar,bcrt_q4,BCRT,"3 rungs not including the 1 already touching the water (the fourth rung up) the distance would be 20*3 =60 cm. at 15cm/hr, it would take (60/15=4 hours)",0.0,0.0,rule_other,0
+R_9ly8qis9dlrc9ar,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,0
+R_9ly8qis9dlrc9ar,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4bQXQnGPkraYQ3D,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4bQXQnGPkraYQ3D,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4bQXQnGPkraYQ3D,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4bQXQnGPkraYQ3D,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,1
+R_4bQXQnGPkraYQ3D,bcrt_q1,BCRT,and hour and a half,0.0,0.0,rule_other,1
+R_4bQXQnGPkraYQ3D,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4bQXQnGPkraYQ3D,bcrt_q3,BCRT,7 days,0.0,0.0,rule_other,0
+R_4bQXQnGPkraYQ3D,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4bQXQnGPkraYQ3D,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4bQXQnGPkraYQ3D,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_41FkWLVk7rYU62L,crt2_q1,CRT2,1st,0.0,1.0,rule_exact_intuitive,0
+R_41FkWLVk7rYU62L,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_41FkWLVk7rYU62L,crt2_q3,CRT2,emily.,1.0,2.0,rule_fuzzy_correct,0
+R_41FkWLVk7rYU62L,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_41FkWLVk7rYU62L,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,0
+R_41FkWLVk7rYU62L,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_41FkWLVk7rYU62L,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_41FkWLVk7rYU62L,bcrt_q4,BCRT,4 hrs,0.0,0.0,rule_other,0
+R_41FkWLVk7rYU62L,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,0
+R_41FkWLVk7rYU62L,bcrt_q6,BCRT,not necessarily because we don't know if anne is married or not.,0.0,0.0,rule_other,0
+R_9IOGliiBUtJWMc9,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_9IOGliiBUtJWMc9,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9IOGliiBUtJWMc9,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9IOGliiBUtJWMc9,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9IOGliiBUtJWMc9,bcrt_q1,BCRT,1 and half an hour,1.0,2.0,rule_numeric_correct,0
+R_9IOGliiBUtJWMc9,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_9IOGliiBUtJWMc9,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_9IOGliiBUtJWMc9,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,1
+R_9IOGliiBUtJWMc9,bcrt_q5,BCRT,the man is looking at a portrait of ​​his son​​.,0.0,0.0,rule_other,1
+R_9IOGliiBUtJWMc9,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9CNkRH6KOycR6TU,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_9CNkRH6KOycR6TU,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9CNkRH6KOycR6TU,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9CNkRH6KOycR6TU,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_9CNkRH6KOycR6TU,bcrt_q1,BCRT,1 hour and a half,1.0,2.0,rule_numeric_correct,0
+R_9CNkRH6KOycR6TU,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9CNkRH6KOycR6TU,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9CNkRH6KOycR6TU,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9CNkRH6KOycR6TU,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9CNkRH6KOycR6TU,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9PYWjHPxUOfIAnw,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_9PYWjHPxUOfIAnw,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9PYWjHPxUOfIAnw,crt2_q3,CRT2,february,0.0,0.0,rule_other,0
+R_9PYWjHPxUOfIAnw,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_9PYWjHPxUOfIAnw,bcrt_q1,BCRT,1.5h,0.0,0.0,rule_other,0
+R_9PYWjHPxUOfIAnw,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9PYWjHPxUOfIAnw,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_9PYWjHPxUOfIAnw,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,0
+R_9PYWjHPxUOfIAnw,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9PYWjHPxUOfIAnw,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9qm6ZczrGsxoZf7,crt2_q1,CRT2,"if i was running a race and i was passing the person in second place then i would be assuming the position they were just in and thus be second place, if i then went on to pass the person in front of me i would assume first place.",1.0,2.0,rule_exact_correct,1
+R_9qm6ZczrGsxoZf7,crt2_q2,CRT2,there would be 8 sheep left,0.0,0.0,rule_other,0
+R_9qm6ZczrGsxoZf7,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9qm6ZczrGsxoZf7,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,0
+R_9qm6ZczrGsxoZf7,bcrt_q1,BCRT,an hour and a half,0.0,0.0,rule_other,0
+R_9qm6ZczrGsxoZf7,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_9qm6ZczrGsxoZf7,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9qm6ZczrGsxoZf7,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9qm6ZczrGsxoZf7,bcrt_q5,BCRT,the persona's son/child,0.0,0.0,rule_other,0
+R_9qm6ZczrGsxoZf7,bcrt_q6,BCRT,"in this given scenario if i am to assume that jack is married to anne than anne looking at george would mean that a married person is looking at an unmarried person, and a married person is also looking at a married person. however, if jack is married to george, than anne looking at george would mean and unmarried person is staring at a married person. if anne was married to george then again it would be a married person looking at a married person. additionally, jack could be married to neither, in which case a married person would be looking at a married person. and also all 3 could be married to separate people which would mean that in both cases a married person would be looking at a married person",1.0,2.0,rule_phrase_correct,0
+R_9CxHjiLEAvYA1Z7,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9CxHjiLEAvYA1Z7,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9CxHjiLEAvYA1Z7,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9CxHjiLEAvYA1Z7,crt2_q4,CRT2,27 not sure about unit,0.0,0.0,rule_other,0
+R_9CxHjiLEAvYA1Z7,bcrt_q1,BCRT,the 3 pills last 1 and a half hour,0.0,0.0,rule_other,0
+R_9CxHjiLEAvYA1Z7,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9CxHjiLEAvYA1Z7,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_9CxHjiLEAvYA1Z7,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9CxHjiLEAvYA1Z7,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9CxHjiLEAvYA1Z7,bcrt_q6,BCRT,"not sure, because it did not say whether anne is married or not.",0.0,0.0,rule_other,0
+R_4NDmSPqopKb7O1c,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4NDmSPqopKb7O1c,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4NDmSPqopKb7O1c,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4NDmSPqopKb7O1c,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,1
+R_4NDmSPqopKb7O1c,bcrt_q1,BCRT,1 hours,1.0,2.0,rule_numeric_correct,1
+R_4NDmSPqopKb7O1c,bcrt_q2,BCRT,emily,0.0,0.0,rule_other,1
+R_4NDmSPqopKb7O1c,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4NDmSPqopKb7O1c,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,1
+R_4NDmSPqopKb7O1c,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_4NDmSPqopKb7O1c,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9AN9hSpXOdSyURH,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_9AN9hSpXOdSyURH,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9AN9hSpXOdSyURH,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9AN9hSpXOdSyURH,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9AN9hSpXOdSyURH,bcrt_q1,BCRT,1 and a half hours,1.0,2.0,rule_numeric_correct,0
+R_9AN9hSpXOdSyURH,bcrt_q2,BCRT,200,0.0,0.0,rule_other,0
+R_9AN9hSpXOdSyURH,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9AN9hSpXOdSyURH,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9AN9hSpXOdSyURH,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9AN9hSpXOdSyURH,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_4iUoQNwPj2jAKyv,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_4iUoQNwPj2jAKyv,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4iUoQNwPj2jAKyv,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4iUoQNwPj2jAKyv,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,1
+R_4iUoQNwPj2jAKyv,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_4iUoQNwPj2jAKyv,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_4iUoQNwPj2jAKyv,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4iUoQNwPj2jAKyv,bcrt_q4,BCRT,3,0.0,0.0,rule_other,0
+R_4iUoQNwPj2jAKyv,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,1
+R_4iUoQNwPj2jAKyv,bcrt_q6,BCRT,"yes, a married person is looking at an unmarried person",1.0,2.0,rule_phrase_correct,1
+R_9MSYEATuG2THmYs,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,1
+R_9MSYEATuG2THmYs,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9MSYEATuG2THmYs,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9MSYEATuG2THmYs,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_9MSYEATuG2THmYs,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_9MSYEATuG2THmYs,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9MSYEATuG2THmYs,bcrt_q3,BCRT,7,0.0,0.0,rule_other,0
+R_9MSYEATuG2THmYs,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9MSYEATuG2THmYs,bcrt_q5,BCRT,the son,0.0,0.0,rule_other,0
+R_9MSYEATuG2THmYs,bcrt_q6,BCRT,don't know,0.0,0.0,rule_other,0
+R_4obtThjO6vzifmO,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_4obtThjO6vzifmO,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_4obtThjO6vzifmO,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4obtThjO6vzifmO,crt2_q4,CRT2,there is no dirt in the hole,1.0,2.0,rule_phrase_correct,0
+R_4obtThjO6vzifmO,bcrt_q1,BCRT,3 hours,0.0,0.0,rule_other,0
+R_4obtThjO6vzifmO,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4obtThjO6vzifmO,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4obtThjO6vzifmO,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4obtThjO6vzifmO,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_4obtThjO6vzifmO,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9fwwUsGWe4ahb3J,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_9fwwUsGWe4ahb3J,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9fwwUsGWe4ahb3J,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9fwwUsGWe4ahb3J,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9fwwUsGWe4ahb3J,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9fwwUsGWe4ahb3J,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_9fwwUsGWe4ahb3J,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9fwwUsGWe4ahb3J,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,0
+R_9fwwUsGWe4ahb3J,bcrt_q5,BCRT,his child's portrait,0.0,0.0,rule_other,0
+R_9fwwUsGWe4ahb3J,bcrt_q6,BCRT,no way to know if anne is married,0.0,0.0,rule_other,0
+R_91xFvPuhzoLYe09,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_91xFvPuhzoLYe09,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_91xFvPuhzoLYe09,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_91xFvPuhzoLYe09,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_91xFvPuhzoLYe09,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_91xFvPuhzoLYe09,bcrt_q2,BCRT,400$,1.0,2.0,rule_numeric_correct,0
+R_91xFvPuhzoLYe09,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_91xFvPuhzoLYe09,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_91xFvPuhzoLYe09,bcrt_q5,BCRT,his son's,0.0,0.0,rule_other,0
+R_91xFvPuhzoLYe09,bcrt_q6,BCRT,depends if anne is married or not,0.0,0.0,rule_other,0
+R_9Y5jqFKG2qMXrMH,crt2_q1,CRT2,3rd,0.0,0.0,rule_other,0
+R_9Y5jqFKG2qMXrMH,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9Y5jqFKG2qMXrMH,crt2_q3,CRT2,idk,0.0,0.0,rule_other,0
+R_9Y5jqFKG2qMXrMH,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9Y5jqFKG2qMXrMH,bcrt_q1,BCRT,6,0.0,0.0,rule_other,1
+R_9Y5jqFKG2qMXrMH,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9Y5jqFKG2qMXrMH,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9Y5jqFKG2qMXrMH,bcrt_q4,BCRT,2,0.0,0.0,rule_other,0
+R_9Y5jqFKG2qMXrMH,bcrt_q5,BCRT,idk,0.0,0.0,rule_other,0
+R_9Y5jqFKG2qMXrMH,bcrt_q6,BCRT,we don't know if anne is married or not,0.0,0.0,rule_other,0
+R_42DGL2I53q6AtnU,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_42DGL2I53q6AtnU,crt2_q2,CRT2,8 sheep,1.0,2.0,rule_exact_correct,1
+R_42DGL2I53q6AtnU,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_42DGL2I53q6AtnU,crt2_q4,CRT2,"0, it's a hole",0.0,0.0,rule_other,1
+R_42DGL2I53q6AtnU,bcrt_q1,BCRT,1 hour from when you start taking the pills,1.0,2.0,rule_numeric_correct,0
+R_42DGL2I53q6AtnU,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_42DGL2I53q6AtnU,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,1
+R_42DGL2I53q6AtnU,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,0
+R_42DGL2I53q6AtnU,bcrt_q5,BCRT,his son's portrait,0.0,0.0,rule_other,1
+R_42DGL2I53q6AtnU,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9zAUnGRFYT3T1fY,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,0
+R_9zAUnGRFYT3T1fY,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9zAUnGRFYT3T1fY,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9zAUnGRFYT3T1fY,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,0
+R_9zAUnGRFYT3T1fY,bcrt_q1,BCRT,8,0.0,0.0,rule_other,0
+R_9zAUnGRFYT3T1fY,bcrt_q2,BCRT,8,0.0,0.0,rule_other,0
+R_9zAUnGRFYT3T1fY,bcrt_q3,BCRT,9,0.0,1.0,rule_exact_intuitive,0
+R_9zAUnGRFYT3T1fY,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_9zAUnGRFYT3T1fY,bcrt_q5,BCRT,son,1.0,2.0,rule_exact_correct,0
+R_9zAUnGRFYT3T1fY,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_448C7cW8wSXpC6o,crt2_q1,CRT2,1st,0.0,1.0,rule_exact_intuitive,0
+R_448C7cW8wSXpC6o,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_448C7cW8wSXpC6o,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_448C7cW8wSXpC6o,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_448C7cW8wSXpC6o,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_448C7cW8wSXpC6o,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,0
+R_448C7cW8wSXpC6o,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_448C7cW8wSXpC6o,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_448C7cW8wSXpC6o,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,1
+R_448C7cW8wSXpC6o,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9tnHNQwVXmXn7Vj,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9tnHNQwVXmXn7Vj,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9tnHNQwVXmXn7Vj,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9tnHNQwVXmXn7Vj,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_9tnHNQwVXmXn7Vj,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9tnHNQwVXmXn7Vj,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9tnHNQwVXmXn7Vj,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_9tnHNQwVXmXn7Vj,bcrt_q4,BCRT,it never cover it,1.0,2.0,rule_phrase_correct,0
+R_9tnHNQwVXmXn7Vj,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9tnHNQwVXmXn7Vj,bcrt_q6,BCRT,no idea didn't mention anne is married,0.0,0.0,rule_other,0
+R_49s5JaRFUTihinG,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_49s5JaRFUTihinG,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_49s5JaRFUTihinG,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_49s5JaRFUTihinG,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_49s5JaRFUTihinG,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_49s5JaRFUTihinG,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_49s5JaRFUTihinG,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_49s5JaRFUTihinG,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_49s5JaRFUTihinG,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_49s5JaRFUTihinG,bcrt_q6,BCRT,unsure,0.0,1.0,rule_exact_intuitive,0
+R_4Etpbd36eElVfi7,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4Etpbd36eElVfi7,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4Etpbd36eElVfi7,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4Etpbd36eElVfi7,crt2_q4,CRT2,27/1728,0.0,0.0,rule_other,0
+R_4Etpbd36eElVfi7,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,0
+R_4Etpbd36eElVfi7,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4Etpbd36eElVfi7,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4Etpbd36eElVfi7,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,0
+R_4Etpbd36eElVfi7,bcrt_q5,BCRT,the man's son,1.0,2.0,rule_exact_correct,0
+R_4Etpbd36eElVfi7,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9ceigsEeDCxgZmh,crt2_q1,CRT2,1st,0.0,1.0,rule_exact_intuitive,1
+R_9ceigsEeDCxgZmh,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9ceigsEeDCxgZmh,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9ceigsEeDCxgZmh,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9ceigsEeDCxgZmh,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9ceigsEeDCxgZmh,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_9ceigsEeDCxgZmh,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_9ceigsEeDCxgZmh,bcrt_q4,BCRT,2.67 hours,0.0,1.0,rule_fuzzy_intuitive,0
+R_9ceigsEeDCxgZmh,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9ceigsEeDCxgZmh,bcrt_q6,BCRT,unclear??? don't know if anne is married,0.0,0.0,rule_other,0
+R_4Qrr4Sxrf7MWyC0,crt2_q1,CRT2,you are now in second place.,1.0,2.0,rule_fuzzy_correct,1
+R_4Qrr4Sxrf7MWyC0,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4Qrr4Sxrf7MWyC0,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4Qrr4Sxrf7MWyC0,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,1
+R_4Qrr4Sxrf7MWyC0,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_4Qrr4Sxrf7MWyC0,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4Qrr4Sxrf7MWyC0,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4Qrr4Sxrf7MWyC0,bcrt_q4,BCRT,the tide will never cover 3 rungs as long as the ladder stays attached to the ship.,1.0,2.0,rule_phrase_correct,1
+R_4Qrr4Sxrf7MWyC0,bcrt_q5,BCRT,the man is looking at a portrait of his son,0.0,0.0,rule_other,1
+R_4Qrr4Sxrf7MWyC0,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_4FEe0xLd6itwVFL,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_4FEe0xLd6itwVFL,crt2_q2,CRT2,0,0.0,0.0,rule_other,1
+R_4FEe0xLd6itwVFL,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_4FEe0xLd6itwVFL,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,1
+R_4FEe0xLd6itwVFL,bcrt_q1,BCRT,1.5hour,0.0,0.0,rule_other,1
+R_4FEe0xLd6itwVFL,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4FEe0xLd6itwVFL,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_4FEe0xLd6itwVFL,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,1
+R_4FEe0xLd6itwVFL,bcrt_q5,BCRT,step brother,0.0,0.0,rule_other,1
+R_4FEe0xLd6itwVFL,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,1
+R_4K2wWM1201O7BbJ,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,1
+R_4K2wWM1201O7BbJ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4K2wWM1201O7BbJ,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_4K2wWM1201O7BbJ,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4K2wWM1201O7BbJ,bcrt_q1,BCRT,1.5hour,0.0,0.0,rule_other,1
+R_4K2wWM1201O7BbJ,bcrt_q2,BCRT,100,0.0,0.0,rule_other,1
+R_4K2wWM1201O7BbJ,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4K2wWM1201O7BbJ,bcrt_q4,BCRT,1.5,0.0,0.0,rule_other,1
+R_4K2wWM1201O7BbJ,bcrt_q5,BCRT,grandfather,0.0,0.0,rule_other,1
+R_4K2wWM1201O7BbJ,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_2hBdnry1AtOl99m,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_2hBdnry1AtOl99m,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_2hBdnry1AtOl99m,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_2hBdnry1AtOl99m,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_2hBdnry1AtOl99m,bcrt_q1,BCRT,1h,1.0,2.0,rule_numeric_correct,1
+R_2hBdnry1AtOl99m,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_2hBdnry1AtOl99m,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_2hBdnry1AtOl99m,bcrt_q4,BCRT,1.25h,0.0,0.0,rule_other,1
+R_2hBdnry1AtOl99m,bcrt_q5,BCRT,the man is looking at a portrait of his son.,0.0,0.0,rule_other,1
+R_2hBdnry1AtOl99m,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9viZJcOtFe2UMZI,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_9viZJcOtFe2UMZI,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9viZJcOtFe2UMZI,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9viZJcOtFe2UMZI,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9viZJcOtFe2UMZI,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9viZJcOtFe2UMZI,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9viZJcOtFe2UMZI,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9viZJcOtFe2UMZI,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9viZJcOtFe2UMZI,bcrt_q5,BCRT,great grandpa,0.0,0.0,rule_other,0
+R_9viZJcOtFe2UMZI,bcrt_q6,BCRT,unclear,0.0,0.0,rule_other,0
+R_9qCqgxLFaxmotAR,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9qCqgxLFaxmotAR,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9qCqgxLFaxmotAR,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9qCqgxLFaxmotAR,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,0
+R_9qCqgxLFaxmotAR,bcrt_q1,BCRT,90 minutes,0.0,1.0,rule_exact_intuitive,0
+R_9qCqgxLFaxmotAR,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,1
+R_9qCqgxLFaxmotAR,bcrt_q3,BCRT,7 days,0.0,0.0,rule_other,0
+R_9qCqgxLFaxmotAR,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9qCqgxLFaxmotAR,bcrt_q5,BCRT,his niece?,0.0,0.0,rule_other,0
+R_9qCqgxLFaxmotAR,bcrt_q6,BCRT,"i dont know if anne is married, i cant say",0.0,0.0,rule_other,0
+R_4IuXMRl31zVDX2Z,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_4IuXMRl31zVDX2Z,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4IuXMRl31zVDX2Z,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4IuXMRl31zVDX2Z,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_4IuXMRl31zVDX2Z,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_4IuXMRl31zVDX2Z,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4IuXMRl31zVDX2Z,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_4IuXMRl31zVDX2Z,bcrt_q4,BCRT,the rung will never be covered by water because the ladder rises with the tide,1.0,2.0,rule_phrase_correct,0
+R_4IuXMRl31zVDX2Z,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4IuXMRl31zVDX2Z,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9f8TBp2vAQXd329,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9f8TBp2vAQXd329,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9f8TBp2vAQXd329,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9f8TBp2vAQXd329,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9f8TBp2vAQXd329,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_9f8TBp2vAQXd329,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9f8TBp2vAQXd329,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_9f8TBp2vAQXd329,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9f8TBp2vAQXd329,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9f8TBp2vAQXd329,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9QLchgtc6B8476G,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_9QLchgtc6B8476G,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9QLchgtc6B8476G,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9QLchgtc6B8476G,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9QLchgtc6B8476G,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9QLchgtc6B8476G,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_9QLchgtc6B8476G,bcrt_q3,BCRT,"9 days, 10 days+nights",0.0,0.0,rule_other,0
+R_9QLchgtc6B8476G,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9QLchgtc6B8476G,bcrt_q5,BCRT,himself?,0.0,1.0,rule_fuzzy_intuitive,0
+R_9QLchgtc6B8476G,bcrt_q6,BCRT,"if anne is married, then yes she is looking at george who is not married. if anne is not married, also yes, jack who is married is looking at her.",1.0,2.0,rule_phrase_correct,0
+R_93vFP1P8RlZwhtL,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_93vFP1P8RlZwhtL,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_93vFP1P8RlZwhtL,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_93vFP1P8RlZwhtL,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_93vFP1P8RlZwhtL,bcrt_q1,BCRT,90mins,0.0,0.0,rule_other,1
+R_93vFP1P8RlZwhtL,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_93vFP1P8RlZwhtL,bcrt_q3,BCRT,7,0.0,0.0,rule_other,1
+R_93vFP1P8RlZwhtL,bcrt_q4,BCRT,2.7h,0.0,0.0,rule_other,1
+R_93vFP1P8RlZwhtL,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_93vFP1P8RlZwhtL,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_41Ba1as7ba32vsJ,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_41Ba1as7ba32vsJ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_41Ba1as7ba32vsJ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_41Ba1as7ba32vsJ,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,0
+R_41Ba1as7ba32vsJ,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_41Ba1as7ba32vsJ,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_41Ba1as7ba32vsJ,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_41Ba1as7ba32vsJ,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,0
+R_41Ba1as7ba32vsJ,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_41Ba1as7ba32vsJ,bcrt_q6,BCRT,can't tell unless information about anne is provided,0.0,0.0,rule_other,0
+R_9Z7mlqmSLzfiFhf,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9Z7mlqmSLzfiFhf,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9Z7mlqmSLzfiFhf,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9Z7mlqmSLzfiFhf,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9Z7mlqmSLzfiFhf,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_9Z7mlqmSLzfiFhf,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9Z7mlqmSLzfiFhf,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_9Z7mlqmSLzfiFhf,bcrt_q4,BCRT,3,0.0,0.0,rule_other,0
+R_9Z7mlqmSLzfiFhf,bcrt_q5,BCRT,son,1.0,2.0,rule_exact_correct,0
+R_9Z7mlqmSLzfiFhf,bcrt_q6,BCRT,no idea,0.0,0.0,rule_other,0
+R_41yLbDAOwRjV9ZD,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_41yLbDAOwRjV9ZD,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_41yLbDAOwRjV9ZD,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_41yLbDAOwRjV9ZD,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_41yLbDAOwRjV9ZD,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_41yLbDAOwRjV9ZD,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_41yLbDAOwRjV9ZD,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_41yLbDAOwRjV9ZD,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_41yLbDAOwRjV9ZD,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_41yLbDAOwRjV9ZD,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9AMDoqFupvbMn0u,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_9AMDoqFupvbMn0u,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9AMDoqFupvbMn0u,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9AMDoqFupvbMn0u,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9AMDoqFupvbMn0u,bcrt_q1,BCRT,1hr,1.0,2.0,rule_exact_correct,0
+R_9AMDoqFupvbMn0u,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9AMDoqFupvbMn0u,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_9AMDoqFupvbMn0u,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_9AMDoqFupvbMn0u,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9AMDoqFupvbMn0u,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9FM1heUaLdVQUsx,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_9FM1heUaLdVQUsx,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9FM1heUaLdVQUsx,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9FM1heUaLdVQUsx,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9FM1heUaLdVQUsx,bcrt_q1,BCRT,2 hours,0.0,0.0,rule_other,0
+R_9FM1heUaLdVQUsx,bcrt_q2,BCRT,$300,0.0,1.0,rule_exact_intuitive,0
+R_9FM1heUaLdVQUsx,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9FM1heUaLdVQUsx,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9FM1heUaLdVQUsx,bcrt_q5,BCRT,step brother?,0.0,0.0,rule_other,0
+R_9FM1heUaLdVQUsx,bcrt_q6,BCRT,yes? or maybe an unmarried person is looking at another unmarried person,1.0,2.0,rule_phrase_correct,0
+R_9IYl1rZSCRvKRkD,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9IYl1rZSCRvKRkD,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9IYl1rZSCRvKRkD,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9IYl1rZSCRvKRkD,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9IYl1rZSCRvKRkD,bcrt_q1,BCRT,30 minutes,1.0,2.0,rule_fuzzy_correct,0
+R_9IYl1rZSCRvKRkD,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_9IYl1rZSCRvKRkD,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9IYl1rZSCRvKRkD,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9IYl1rZSCRvKRkD,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9IYl1rZSCRvKRkD,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4jBC0qyqsZWEaQL,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,1
+R_4jBC0qyqsZWEaQL,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4jBC0qyqsZWEaQL,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4jBC0qyqsZWEaQL,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4jBC0qyqsZWEaQL,bcrt_q1,BCRT,1 and half hour,1.0,2.0,rule_numeric_correct,1
+R_4jBC0qyqsZWEaQL,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4jBC0qyqsZWEaQL,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4jBC0qyqsZWEaQL,bcrt_q4,BCRT,4h,0.0,0.0,rule_other,1
+R_4jBC0qyqsZWEaQL,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,1
+R_4jBC0qyqsZWEaQL,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_4fEgJqtJj1UGFQQ,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,1
+R_4fEgJqtJj1UGFQQ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4fEgJqtJj1UGFQQ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4fEgJqtJj1UGFQQ,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,0
+R_4fEgJqtJj1UGFQQ,bcrt_q1,BCRT,30 min,0.0,0.0,rule_other,0
+R_4fEgJqtJj1UGFQQ,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4fEgJqtJj1UGFQQ,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4fEgJqtJj1UGFQQ,bcrt_q4,BCRT,2 hours 40 min,0.0,0.0,rule_other,0
+R_4fEgJqtJj1UGFQQ,bcrt_q5,BCRT,his grandson,0.0,0.0,rule_other,0
+R_4fEgJqtJj1UGFQQ,bcrt_q6,BCRT,we don't know if anne is married or unmarried,0.0,0.0,rule_other,0
+R_4hA67MOCRzYcpR4,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_4hA67MOCRzYcpR4,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_4hA67MOCRzYcpR4,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_4hA67MOCRzYcpR4,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4hA67MOCRzYcpR4,bcrt_q1,BCRT,1,1.0,2.0,rule_exact_correct,0
+R_4hA67MOCRzYcpR4,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_4hA67MOCRzYcpR4,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4hA67MOCRzYcpR4,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,1
+R_4hA67MOCRzYcpR4,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_4hA67MOCRzYcpR4,bcrt_q6,BCRT,we don't know,0.0,0.0,rule_other,1
+R_4NwhRxEgkSXBV03,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4NwhRxEgkSXBV03,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4NwhRxEgkSXBV03,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4NwhRxEgkSXBV03,crt2_q4,CRT2,none,1.0,2.0,rule_exact_correct,1
+R_4NwhRxEgkSXBV03,bcrt_q1,BCRT,1.5hrs,0.0,0.0,rule_other,0
+R_4NwhRxEgkSXBV03,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4NwhRxEgkSXBV03,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4NwhRxEgkSXBV03,bcrt_q4,BCRT,4hrs,0.0,0.0,rule_other,0
+R_4NwhRxEgkSXBV03,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,1
+R_4NwhRxEgkSXBV03,bcrt_q6,BCRT,not enough info to tell,0.0,0.0,rule_other,0
+R_9Brhp62AwtSXskk,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9Brhp62AwtSXskk,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9Brhp62AwtSXskk,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9Brhp62AwtSXskk,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_9Brhp62AwtSXskk,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9Brhp62AwtSXskk,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9Brhp62AwtSXskk,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9Brhp62AwtSXskk,bcrt_q4,BCRT,0,0.0,0.0,rule_other,0
+R_9Brhp62AwtSXskk,bcrt_q5,BCRT,his father,0.0,0.0,rule_other,1
+R_9Brhp62AwtSXskk,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9gSCcbS1E3C8iTw,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9gSCcbS1E3C8iTw,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9gSCcbS1E3C8iTw,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9gSCcbS1E3C8iTw,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,0
+R_9gSCcbS1E3C8iTw,bcrt_q1,BCRT,1 and a half hours,1.0,2.0,rule_numeric_correct,0
+R_9gSCcbS1E3C8iTw,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9gSCcbS1E3C8iTw,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_9gSCcbS1E3C8iTw,bcrt_q4,BCRT,3,0.0,0.0,rule_other,0
+R_9gSCcbS1E3C8iTw,bcrt_q5,BCRT,i dont know,0.0,0.0,rule_other,0
+R_9gSCcbS1E3C8iTw,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9eahWs8Qec76gmd,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_9eahWs8Qec76gmd,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9eahWs8Qec76gmd,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9eahWs8Qec76gmd,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,1
+R_9eahWs8Qec76gmd,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_9eahWs8Qec76gmd,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_9eahWs8Qec76gmd,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_9eahWs8Qec76gmd,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,1
+R_9eahWs8Qec76gmd,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_9eahWs8Qec76gmd,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_962o5xFSw9PbNFZ,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_962o5xFSw9PbNFZ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_962o5xFSw9PbNFZ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_962o5xFSw9PbNFZ,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_962o5xFSw9PbNFZ,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_962o5xFSw9PbNFZ,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_962o5xFSw9PbNFZ,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_962o5xFSw9PbNFZ,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_962o5xFSw9PbNFZ,bcrt_q5,BCRT,nephew,0.0,0.0,rule_other,0
+R_962o5xFSw9PbNFZ,bcrt_q6,BCRT,not sure,0.0,0.0,rule_other,0
+R_9I5GBWmOLvqXYfX,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_9I5GBWmOLvqXYfX,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9I5GBWmOLvqXYfX,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9I5GBWmOLvqXYfX,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,0
+R_9I5GBWmOLvqXYfX,bcrt_q1,BCRT,1 hour if you take 1 pill at the start,1.0,2.0,rule_numeric_correct,0
+R_9I5GBWmOLvqXYfX,bcrt_q2,BCRT,$1300,0.0,0.0,rule_other,0
+R_9I5GBWmOLvqXYfX,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_9I5GBWmOLvqXYfX,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,0
+R_9I5GBWmOLvqXYfX,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9I5GBWmOLvqXYfX,bcrt_q6,BCRT,not enough information,0.0,0.0,rule_other,0
+R_9qeyHfp7rwmBIii,crt2_q1,CRT2,first place,0.0,1.0,rule_exact_intuitive,0
+R_9qeyHfp7rwmBIii,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9qeyHfp7rwmBIii,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_9qeyHfp7rwmBIii,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9qeyHfp7rwmBIii,bcrt_q1,BCRT,an hour and a half,0.0,0.0,rule_other,0
+R_9qeyHfp7rwmBIii,bcrt_q2,BCRT,nothing,0.0,0.0,rule_other,0
+R_9qeyHfp7rwmBIii,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9qeyHfp7rwmBIii,bcrt_q4,BCRT,3-4 hours,0.0,0.0,rule_other,0
+R_9qeyHfp7rwmBIii,bcrt_q5,BCRT,potrait of himself,0.0,0.0,rule_other,0
+R_9qeyHfp7rwmBIii,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4OUZZKs5XdB6yKX,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4OUZZKs5XdB6yKX,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4OUZZKs5XdB6yKX,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4OUZZKs5XdB6yKX,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4OUZZKs5XdB6yKX,bcrt_q1,BCRT,1h,1.0,2.0,rule_numeric_correct,0
+R_4OUZZKs5XdB6yKX,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4OUZZKs5XdB6yKX,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4OUZZKs5XdB6yKX,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_4OUZZKs5XdB6yKX,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,0
+R_4OUZZKs5XdB6yKX,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9PRjj1DrQC42Avg,crt2_q1,CRT2,2nd place,0.0,0.0,rule_other,0
+R_9PRjj1DrQC42Avg,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9PRjj1DrQC42Avg,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9PRjj1DrQC42Avg,crt2_q4,CRT2,3,0.0,1.0,rule_regex_intuitive,0
+R_9PRjj1DrQC42Avg,bcrt_q1,BCRT,an hour if u take 1 right away also,1.0,2.0,rule_numeric_correct,0
+R_9PRjj1DrQC42Avg,bcrt_q2,BCRT,200,0.0,0.0,rule_other,0
+R_9PRjj1DrQC42Avg,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9PRjj1DrQC42Avg,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_9PRjj1DrQC42Avg,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9PRjj1DrQC42Avg,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9n6p2jcdoGyug9Q,crt2_q1,CRT2,1st,0.0,1.0,rule_exact_intuitive,0
+R_9n6p2jcdoGyug9Q,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9n6p2jcdoGyug9Q,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9n6p2jcdoGyug9Q,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9n6p2jcdoGyug9Q,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9n6p2jcdoGyug9Q,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9n6p2jcdoGyug9Q,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9n6p2jcdoGyug9Q,bcrt_q4,BCRT,6 hours,0.0,0.0,rule_other,0
+R_9n6p2jcdoGyug9Q,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,0
+R_9n6p2jcdoGyug9Q,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9jGTQ6wMqanivsJ,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9jGTQ6wMqanivsJ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9jGTQ6wMqanivsJ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9jGTQ6wMqanivsJ,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_9jGTQ6wMqanivsJ,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_9jGTQ6wMqanivsJ,bcrt_q2,BCRT,400a,1.0,2.0,rule_numeric_correct,0
+R_9jGTQ6wMqanivsJ,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_9jGTQ6wMqanivsJ,bcrt_q4,BCRT,2 hours 40 minutes,0.0,1.0,rule_exact_intuitive,0
+R_9jGTQ6wMqanivsJ,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9jGTQ6wMqanivsJ,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4R3qaCCsYEVJ1wC,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_4R3qaCCsYEVJ1wC,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4R3qaCCsYEVJ1wC,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4R3qaCCsYEVJ1wC,crt2_q4,CRT2,depends on how much dirt they put in the hole,0.0,0.0,rule_other,0
+R_4R3qaCCsYEVJ1wC,bcrt_q1,BCRT,1.5 hours assuming you wait 30 mins to take the first 1 (if you take immediately then 1hr),0.0,0.0,rule_other,0
+R_4R3qaCCsYEVJ1wC,bcrt_q2,BCRT,$300,0.0,1.0,rule_exact_intuitive,0
+R_4R3qaCCsYEVJ1wC,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4R3qaCCsYEVJ1wC,bcrt_q4,BCRT,2.66 hrs,0.0,0.0,rule_other,0
+R_4R3qaCCsYEVJ1wC,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4R3qaCCsYEVJ1wC,bcrt_q6,BCRT,depends whether anne is married or not.,0.0,0.0,rule_other,0
+R_9e43GXStJMzS90J,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9e43GXStJMzS90J,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9e43GXStJMzS90J,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9e43GXStJMzS90J,crt2_q4,CRT2,idk,0.0,0.0,rule_other,0
+R_9e43GXStJMzS90J,bcrt_q1,BCRT,90minutes,0.0,1.0,rule_fuzzy_intuitive,0
+R_9e43GXStJMzS90J,bcrt_q2,BCRT,100,0.0,0.0,rule_other,0
+R_9e43GXStJMzS90J,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9e43GXStJMzS90J,bcrt_q4,BCRT,idk never,1.0,2.0,rule_phrase_correct,0
+R_9e43GXStJMzS90J,bcrt_q5,BCRT,the son,0.0,0.0,rule_other,1
+R_9e43GXStJMzS90J,bcrt_q6,BCRT,idk,0.0,0.0,rule_other,0
+R_45Ae219AVS6KIs1,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_45Ae219AVS6KIs1,crt2_q2,CRT2,7?,0.0,0.0,rule_other,0
+R_45Ae219AVS6KIs1,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_45Ae219AVS6KIs1,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_45Ae219AVS6KIs1,bcrt_q1,BCRT,1 and half hours?,1.0,2.0,rule_numeric_correct,0
+R_45Ae219AVS6KIs1,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_45Ae219AVS6KIs1,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_45Ae219AVS6KIs1,bcrt_q4,BCRT,can it be covered tho?,0.0,0.0,rule_other,0
+R_45Ae219AVS6KIs1,bcrt_q5,BCRT,himself?,0.0,1.0,rule_fuzzy_intuitive,0
+R_45Ae219AVS6KIs1,bcrt_q6,BCRT,yes[ even though anne is not specified],1.0,2.0,rule_phrase_correct,0
+R_9s4teXVhjjfKrPu,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_9s4teXVhjjfKrPu,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9s4teXVhjjfKrPu,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9s4teXVhjjfKrPu,crt2_q4,CRT2,0?,0.0,0.0,rule_other,0
+R_9s4teXVhjjfKrPu,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_9s4teXVhjjfKrPu,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_9s4teXVhjjfKrPu,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9s4teXVhjjfKrPu,bcrt_q4,BCRT,never?,1.0,2.0,rule_fuzzy_correct,1
+R_9s4teXVhjjfKrPu,bcrt_q5,BCRT,son? or dad?,0.0,0.0,rule_other,1
+R_9s4teXVhjjfKrPu,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_4wv2qYUqkz8tdtv,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4wv2qYUqkz8tdtv,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4wv2qYUqkz8tdtv,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4wv2qYUqkz8tdtv,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4wv2qYUqkz8tdtv,bcrt_q1,BCRT,not sure,0.0,0.0,rule_other,1
+R_4wv2qYUqkz8tdtv,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4wv2qYUqkz8tdtv,bcrt_q3,BCRT,7,0.0,0.0,rule_other,1
+R_4wv2qYUqkz8tdtv,bcrt_q4,BCRT,indeterminable (ships float),0.0,0.0,rule_other,1
+R_4wv2qYUqkz8tdtv,bcrt_q5,BCRT,his grandson,0.0,0.0,rule_other,1
+R_4wv2qYUqkz8tdtv,bcrt_q6,BCRT,depends if anne is married,0.0,0.0,rule_other,1
+R_9MJYOtiXLFLwdGm,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,1
+R_9MJYOtiXLFLwdGm,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9MJYOtiXLFLwdGm,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_9MJYOtiXLFLwdGm,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,1
+R_9MJYOtiXLFLwdGm,bcrt_q1,BCRT,???,0.0,0.0,rule_other,1
+R_9MJYOtiXLFLwdGm,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,1
+R_9MJYOtiXLFLwdGm,bcrt_q3,BCRT,20 days,0.0,0.0,rule_other,1
+R_9MJYOtiXLFLwdGm,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,1
+R_9MJYOtiXLFLwdGm,bcrt_q5,BCRT,himself?,0.0,1.0,rule_fuzzy_intuitive,1
+R_9MJYOtiXLFLwdGm,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9AGePJ73L464Cs5,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_9AGePJ73L464Cs5,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9AGePJ73L464Cs5,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_9AGePJ73L464Cs5,crt2_q4,CRT2,9',0.0,0.0,rule_other,0
+R_9AGePJ73L464Cs5,bcrt_q1,BCRT,half an hour,0.0,0.0,rule_other,0
+R_9AGePJ73L464Cs5,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9AGePJ73L464Cs5,bcrt_q3,BCRT,4,0.0,0.0,rule_other,0
+R_9AGePJ73L464Cs5,bcrt_q4,BCRT,2hrs,0.0,0.0,rule_other,0
+R_9AGePJ73L464Cs5,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9AGePJ73L464Cs5,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9THejfEZJ5ClEBz,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9THejfEZJ5ClEBz,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9THejfEZJ5ClEBz,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9THejfEZJ5ClEBz,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_9THejfEZJ5ClEBz,bcrt_q1,BCRT,3hours,0.0,0.0,rule_other,0
+R_9THejfEZJ5ClEBz,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9THejfEZJ5ClEBz,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_9THejfEZJ5ClEBz,bcrt_q4,BCRT,4hours,0.0,1.0,rule_fuzzy_intuitive,0
+R_9THejfEZJ5ClEBz,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9THejfEZJ5ClEBz,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9Gt5RTuyE5vjmet,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_9Gt5RTuyE5vjmet,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9Gt5RTuyE5vjmet,crt2_q3,CRT2,obama,0.0,0.0,rule_other,1
+R_9Gt5RTuyE5vjmet,crt2_q4,CRT2,27 idk,0.0,0.0,rule_other,0
+R_9Gt5RTuyE5vjmet,bcrt_q1,BCRT,1 hour and 30 minutes,1.0,2.0,rule_numeric_correct,0
+R_9Gt5RTuyE5vjmet,bcrt_q2,BCRT,$100,0.0,0.0,rule_other,0
+R_9Gt5RTuyE5vjmet,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9Gt5RTuyE5vjmet,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9Gt5RTuyE5vjmet,bcrt_q5,BCRT,fucking obama,0.0,0.0,rule_other,0
+R_9Gt5RTuyE5vjmet,bcrt_q6,BCRT,we dont fucking know,0.0,0.0,rule_other,0
+R_4JkL95GKekfufeE,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4JkL95GKekfufeE,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4JkL95GKekfufeE,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4JkL95GKekfufeE,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4JkL95GKekfufeE,bcrt_q1,BCRT,1 hour and a half,1.0,2.0,rule_numeric_correct,0
+R_4JkL95GKekfufeE,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4JkL95GKekfufeE,bcrt_q3,BCRT,9,0.0,1.0,rule_exact_intuitive,1
+R_4JkL95GKekfufeE,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_4JkL95GKekfufeE,bcrt_q5,BCRT,my son,0.0,0.0,rule_other,1
+R_4JkL95GKekfufeE,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9226mr5TyVYQkSJ,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9226mr5TyVYQkSJ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9226mr5TyVYQkSJ,crt2_q3,CRT2,emily。,1.0,2.0,rule_fuzzy_correct,0
+R_9226mr5TyVYQkSJ,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_9226mr5TyVYQkSJ,bcrt_q1,BCRT,1hour,1.0,2.0,rule_numeric_correct,0
+R_9226mr5TyVYQkSJ,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9226mr5TyVYQkSJ,bcrt_q3,BCRT,9,0.0,1.0,rule_exact_intuitive,0
+R_9226mr5TyVYQkSJ,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,0
+R_9226mr5TyVYQkSJ,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9226mr5TyVYQkSJ,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9OMQKOT05YB7OWZ,crt2_q1,CRT2,second place because we took their spot,0.0,0.0,rule_other,0
+R_9OMQKOT05YB7OWZ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9OMQKOT05YB7OWZ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9OMQKOT05YB7OWZ,crt2_q4,CRT2,i don't think there is any dirt in a hole...,0.0,0.0,rule_other,0
+R_9OMQKOT05YB7OWZ,bcrt_q1,BCRT,"it depends, but i think it would be 3 if we do take now, then 30 mins later, then another 30 mins",0.0,0.0,rule_other,0
+R_9OMQKOT05YB7OWZ,bcrt_q2,BCRT,"he gained 200 after selling for 1000 then loses 900 in 1100, and selling it again, 400?",0.0,0.0,rule_other,0
+R_9OMQKOT05YB7OWZ,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9OMQKOT05YB7OWZ,bcrt_q4,BCRT,"they would never be covered because the ship rises with the tide, and the ladder is attached on the ship",1.0,2.0,rule_phrase_correct,0
+R_9OMQKOT05YB7OWZ,bcrt_q5,BCRT,"wait my father's son with no brothers and sisters mean he's the only child, and if my father's son is himself, that man is his son",0.0,0.0,rule_other,0
+R_9OMQKOT05YB7OWZ,bcrt_q6,BCRT,"not sure, because we really don't know if anne is married or not",0.0,0.0,rule_other,0
+R_4dNq3BiOufhobBG,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4dNq3BiOufhobBG,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4dNq3BiOufhobBG,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4dNq3BiOufhobBG,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,0
+R_4dNq3BiOufhobBG,bcrt_q1,BCRT,1hr and 30 mins,1.0,2.0,rule_numeric_correct,0
+R_4dNq3BiOufhobBG,bcrt_q2,BCRT,$200,0.0,0.0,rule_other,0
+R_4dNq3BiOufhobBG,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4dNq3BiOufhobBG,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4dNq3BiOufhobBG,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4dNq3BiOufhobBG,bcrt_q6,BCRT,unknown. not enough information if anne is married and who george is looking at.,0.0,0.0,rule_other,0
+R_99czvMc8kHQ3LrS,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_99czvMc8kHQ3LrS,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_99czvMc8kHQ3LrS,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_99czvMc8kHQ3LrS,crt2_q4,CRT2,9 ft^3,0.0,0.0,rule_other,0
+R_99czvMc8kHQ3LrS,bcrt_q1,BCRT,1.5hrs,0.0,0.0,rule_other,0
+R_99czvMc8kHQ3LrS,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_99czvMc8kHQ3LrS,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_99czvMc8kHQ3LrS,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_99czvMc8kHQ3LrS,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_99czvMc8kHQ3LrS,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4PStGe5Wwc9r9wn,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4PStGe5Wwc9r9wn,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4PStGe5Wwc9r9wn,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4PStGe5Wwc9r9wn,crt2_q4,CRT2,no dirt,1.0,2.0,rule_exact_correct,0
+R_4PStGe5Wwc9r9wn,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_4PStGe5Wwc9r9wn,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4PStGe5Wwc9r9wn,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_4PStGe5Wwc9r9wn,bcrt_q4,BCRT,"the number of submerged rungs will not change — it will always be one. so, 3 rungs will never be covered no matter how long you wait.",1.0,2.0,rule_phrase_correct,0
+R_4PStGe5Wwc9r9wn,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4PStGe5Wwc9r9wn,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9Cwy2vDo2WFQ4Zc,crt2_q1,CRT2,2nd place,0.0,0.0,rule_other,0
+R_9Cwy2vDo2WFQ4Zc,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9Cwy2vDo2WFQ4Zc,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9Cwy2vDo2WFQ4Zc,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9Cwy2vDo2WFQ4Zc,bcrt_q1,BCRT,1h 30mins,1.0,2.0,rule_numeric_correct,0
+R_9Cwy2vDo2WFQ4Zc,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,0
+R_9Cwy2vDo2WFQ4Zc,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9Cwy2vDo2WFQ4Zc,bcrt_q4,BCRT,3,0.0,0.0,rule_other,0
+R_9Cwy2vDo2WFQ4Zc,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9Cwy2vDo2WFQ4Zc,bcrt_q6,BCRT,yes jack is looking at anne,1.0,2.0,rule_phrase_correct,0
+R_9VVId9C8Vj2ELgR,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9VVId9C8Vj2ELgR,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9VVId9C8Vj2ELgR,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9VVId9C8Vj2ELgR,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9VVId9C8Vj2ELgR,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_9VVId9C8Vj2ELgR,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9VVId9C8Vj2ELgR,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9VVId9C8Vj2ELgR,bcrt_q4,BCRT,2 hours 40 minutes,0.0,1.0,rule_exact_intuitive,0
+R_9VVId9C8Vj2ELgR,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9VVId9C8Vj2ELgR,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9mIfEpQTVIhg4xA,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9mIfEpQTVIhg4xA,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9mIfEpQTVIhg4xA,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9mIfEpQTVIhg4xA,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9mIfEpQTVIhg4xA,bcrt_q1,BCRT,1.5hrs,0.0,0.0,rule_other,0
+R_9mIfEpQTVIhg4xA,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9mIfEpQTVIhg4xA,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9mIfEpQTVIhg4xA,bcrt_q4,BCRT,4hrs,0.0,0.0,rule_other,0
+R_9mIfEpQTVIhg4xA,bcrt_q5,BCRT,dad,0.0,0.0,rule_other,0
+R_9mIfEpQTVIhg4xA,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9GldOeU6ucCe2Db,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9GldOeU6ucCe2Db,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9GldOeU6ucCe2Db,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9GldOeU6ucCe2Db,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9GldOeU6ucCe2Db,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9GldOeU6ucCe2Db,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9GldOeU6ucCe2Db,bcrt_q3,BCRT,9,0.0,1.0,rule_exact_intuitive,0
+R_9GldOeU6ucCe2Db,bcrt_q4,BCRT,5 hours,0.0,0.0,rule_other,0
+R_9GldOeU6ucCe2Db,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9GldOeU6ucCe2Db,bcrt_q6,BCRT,idk,0.0,0.0,rule_other,0
+R_9ux0IL7wacVYq9v,crt2_q1,CRT2,2nd place,0.0,0.0,rule_other,1
+R_9ux0IL7wacVYq9v,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9ux0IL7wacVYq9v,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9ux0IL7wacVYq9v,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9ux0IL7wacVYq9v,bcrt_q1,BCRT,1hr and a half,1.0,2.0,rule_numeric_correct,0
+R_9ux0IL7wacVYq9v,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9ux0IL7wacVYq9v,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_9ux0IL7wacVYq9v,bcrt_q4,BCRT,4hrs,0.0,0.0,rule_other,0
+R_9ux0IL7wacVYq9v,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9ux0IL7wacVYq9v,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4MbxplCaVt3pXFw,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4MbxplCaVt3pXFw,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4MbxplCaVt3pXFw,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4MbxplCaVt3pXFw,crt2_q4,CRT2,none?,1.0,2.0,rule_phrase_correct,0
+R_4MbxplCaVt3pXFw,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_4MbxplCaVt3pXFw,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4MbxplCaVt3pXFw,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4MbxplCaVt3pXFw,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4MbxplCaVt3pXFw,bcrt_q5,BCRT,his son's portrait,0.0,0.0,rule_other,1
+R_4MbxplCaVt3pXFw,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_4MRBxwG8obndACB,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4MRBxwG8obndACB,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4MRBxwG8obndACB,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4MRBxwG8obndACB,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4MRBxwG8obndACB,bcrt_q1,BCRT,an hour,0.0,0.0,rule_other,1
+R_4MRBxwG8obndACB,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,0
+R_4MRBxwG8obndACB,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4MRBxwG8obndACB,bcrt_q4,BCRT,2 hours and 40 minutes,0.0,1.0,rule_fuzzy_intuitive,0
+R_4MRBxwG8obndACB,bcrt_q5,BCRT,his,0.0,0.0,rule_other,0
+R_4MRBxwG8obndACB,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9fAvOKufoGRbRrp,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,0
+R_9fAvOKufoGRbRrp,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9fAvOKufoGRbRrp,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9fAvOKufoGRbRrp,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_9fAvOKufoGRbRrp,bcrt_q1,BCRT,half an hour,0.0,0.0,rule_other,0
+R_9fAvOKufoGRbRrp,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9fAvOKufoGRbRrp,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_9fAvOKufoGRbRrp,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,0
+R_9fAvOKufoGRbRrp,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9fAvOKufoGRbRrp,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9Eh6wBy1P9GdA0y,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9Eh6wBy1P9GdA0y,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9Eh6wBy1P9GdA0y,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9Eh6wBy1P9GdA0y,crt2_q4,CRT2,27m^3,0.0,0.0,rule_other,0
+R_9Eh6wBy1P9GdA0y,bcrt_q1,BCRT,1hr30,1.0,2.0,rule_numeric_correct,0
+R_9Eh6wBy1P9GdA0y,bcrt_q2,BCRT,$200,0.0,0.0,rule_other,1
+R_9Eh6wBy1P9GdA0y,bcrt_q3,BCRT,9,0.0,1.0,rule_exact_intuitive,0
+R_9Eh6wBy1P9GdA0y,bcrt_q4,BCRT,3,0.0,0.0,rule_other,0
+R_9Eh6wBy1P9GdA0y,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9Eh6wBy1P9GdA0y,bcrt_q6,BCRT,no because anne probs not married,0.0,0.0,rule_other,0
+R_9EAXEBJRdiCSmK3,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_9EAXEBJRdiCSmK3,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9EAXEBJRdiCSmK3,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9EAXEBJRdiCSmK3,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_9EAXEBJRdiCSmK3,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_9EAXEBJRdiCSmK3,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9EAXEBJRdiCSmK3,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_9EAXEBJRdiCSmK3,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,0
+R_9EAXEBJRdiCSmK3,bcrt_q5,BCRT,his son's,0.0,0.0,rule_other,0
+R_9EAXEBJRdiCSmK3,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9UhzOhoJjpcAbBV,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_9UhzOhoJjpcAbBV,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9UhzOhoJjpcAbBV,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9UhzOhoJjpcAbBV,crt2_q4,CRT2,3000,0.0,1.0,rule_regex_intuitive,0
+R_9UhzOhoJjpcAbBV,bcrt_q1,BCRT,1 hour 30 minutes,1.0,2.0,rule_numeric_correct,0
+R_9UhzOhoJjpcAbBV,bcrt_q2,BCRT,300 profit,0.0,0.0,rule_other,0
+R_9UhzOhoJjpcAbBV,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9UhzOhoJjpcAbBV,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9UhzOhoJjpcAbBV,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9UhzOhoJjpcAbBV,bcrt_q6,BCRT,but is anne married or not married?,0.0,0.0,rule_other,0
+R_9E6o1UR695yWgg2,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,1
+R_9E6o1UR695yWgg2,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9E6o1UR695yWgg2,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9E6o1UR695yWgg2,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9E6o1UR695yWgg2,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,1
+R_9E6o1UR695yWgg2,bcrt_q2,BCRT,$300,0.0,1.0,rule_exact_intuitive,0
+R_9E6o1UR695yWgg2,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_9E6o1UR695yWgg2,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,1
+R_9E6o1UR695yWgg2,bcrt_q5,BCRT,nephews and niece,0.0,0.0,rule_other,1
+R_9E6o1UR695yWgg2,bcrt_q6,BCRT,depends if anne is married,0.0,0.0,rule_other,0
+R_92XU34cSilT3AQN,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,0
+R_92XU34cSilT3AQN,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_92XU34cSilT3AQN,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_92XU34cSilT3AQN,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_92XU34cSilT3AQN,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_92XU34cSilT3AQN,bcrt_q2,BCRT,500,0.0,0.0,rule_other,0
+R_92XU34cSilT3AQN,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_92XU34cSilT3AQN,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_92XU34cSilT3AQN,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_92XU34cSilT3AQN,bcrt_q6,BCRT,i dont know because we dont know annes marital status,0.0,0.0,rule_other,0
+R_9RwGhSUWehXvsi5,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9RwGhSUWehXvsi5,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9RwGhSUWehXvsi5,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9RwGhSUWehXvsi5,crt2_q4,CRT2,i do not know,0.0,0.0,rule_other,0
+R_9RwGhSUWehXvsi5,bcrt_q1,BCRT,"30 minutes, unless it is building up in your system",0.0,0.0,rule_other,0
+R_9RwGhSUWehXvsi5,bcrt_q2,BCRT,$300,0.0,1.0,rule_exact_intuitive,0
+R_9RwGhSUWehXvsi5,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9RwGhSUWehXvsi5,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9RwGhSUWehXvsi5,bcrt_q5,BCRT,self portrait,0.0,0.0,rule_other,1
+R_9RwGhSUWehXvsi5,bcrt_q6,BCRT,i don't know becuase i don't know if anne is married or not.,0.0,0.0,rule_other,0
+R_4Y5S3VXplJ1LQNH,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_4Y5S3VXplJ1LQNH,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4Y5S3VXplJ1LQNH,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4Y5S3VXplJ1LQNH,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4Y5S3VXplJ1LQNH,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,0
+R_4Y5S3VXplJ1LQNH,bcrt_q2,BCRT,500,0.0,0.0,rule_other,0
+R_4Y5S3VXplJ1LQNH,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4Y5S3VXplJ1LQNH,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4Y5S3VXplJ1LQNH,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4Y5S3VXplJ1LQNH,bcrt_q6,BCRT,not enough information about anne,0.0,0.0,rule_other,0
+R_4aIWiOxJLzXshwJ,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4aIWiOxJLzXshwJ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4aIWiOxJLzXshwJ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4aIWiOxJLzXshwJ,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,0
+R_4aIWiOxJLzXshwJ,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_4aIWiOxJLzXshwJ,bcrt_q2,BCRT,$200,0.0,0.0,rule_other,0
+R_4aIWiOxJLzXshwJ,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4aIWiOxJLzXshwJ,bcrt_q4,BCRT,5 minutes,0.0,0.0,rule_other,0
+R_4aIWiOxJLzXshwJ,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,0
+R_4aIWiOxJLzXshwJ,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_47BcUqTx8qqGiax,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,1
+R_47BcUqTx8qqGiax,crt2_q2,CRT2,9,0.0,0.0,rule_other,1
+R_47BcUqTx8qqGiax,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_47BcUqTx8qqGiax,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_47BcUqTx8qqGiax,bcrt_q1,BCRT,1.5h,0.0,0.0,rule_other,1
+R_47BcUqTx8qqGiax,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_47BcUqTx8qqGiax,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_47BcUqTx8qqGiax,bcrt_q4,BCRT,1.3,0.0,0.0,rule_other,1
+R_47BcUqTx8qqGiax,bcrt_q5,BCRT,？,0.0,0.0,rule_other,1
+R_47BcUqTx8qqGiax,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,1
+R_44HKb6nrJlMLXVL,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_44HKb6nrJlMLXVL,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_44HKb6nrJlMLXVL,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_44HKb6nrJlMLXVL,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_44HKb6nrJlMLXVL,bcrt_q1,BCRT,1h 30,1.0,2.0,rule_numeric_correct,0
+R_44HKb6nrJlMLXVL,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_44HKb6nrJlMLXVL,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_44HKb6nrJlMLXVL,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_44HKb6nrJlMLXVL,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_44HKb6nrJlMLXVL,bcrt_q6,BCRT,"possibly, if anne is married then yes, but we do not know",1.0,2.0,rule_phrase_correct,0
+R_4G6rO6u8exqtpAV,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4G6rO6u8exqtpAV,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4G6rO6u8exqtpAV,crt2_q3,CRT2,can't tell,0.0,0.0,rule_other,0
+R_4G6rO6u8exqtpAV,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4G6rO6u8exqtpAV,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_4G6rO6u8exqtpAV,bcrt_q2,BCRT,600,0.0,0.0,rule_other,0
+R_4G6rO6u8exqtpAV,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_4G6rO6u8exqtpAV,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4G6rO6u8exqtpAV,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4G6rO6u8exqtpAV,bcrt_q6,BCRT,can't tell,0.0,1.0,rule_exact_intuitive,0
+R_4ZCEWgUy4gJ1QFO,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4ZCEWgUy4gJ1QFO,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4ZCEWgUy4gJ1QFO,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4ZCEWgUy4gJ1QFO,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4ZCEWgUy4gJ1QFO,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,1
+R_4ZCEWgUy4gJ1QFO,bcrt_q2,BCRT,1400,0.0,0.0,rule_other,1
+R_4ZCEWgUy4gJ1QFO,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_4ZCEWgUy4gJ1QFO,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,1
+R_4ZCEWgUy4gJ1QFO,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_4ZCEWgUy4gJ1QFO,bcrt_q6,BCRT,not enough information,0.0,0.0,rule_other,1
+R_9BJxT7iJnxHaxDr,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_9BJxT7iJnxHaxDr,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9BJxT7iJnxHaxDr,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9BJxT7iJnxHaxDr,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_9BJxT7iJnxHaxDr,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_9BJxT7iJnxHaxDr,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9BJxT7iJnxHaxDr,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9BJxT7iJnxHaxDr,bcrt_q4,BCRT,the 3 rungs will never be covered,1.0,2.0,rule_phrase_correct,0
+R_9BJxT7iJnxHaxDr,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9BJxT7iJnxHaxDr,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9YXG5Y4dTM4mSn2,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9YXG5Y4dTM4mSn2,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9YXG5Y4dTM4mSn2,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9YXG5Y4dTM4mSn2,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,0
+R_9YXG5Y4dTM4mSn2,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9YXG5Y4dTM4mSn2,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_9YXG5Y4dTM4mSn2,bcrt_q3,BCRT,7,0.0,0.0,rule_other,0
+R_9YXG5Y4dTM4mSn2,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9YXG5Y4dTM4mSn2,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9YXG5Y4dTM4mSn2,bcrt_q6,BCRT,can't tell,0.0,1.0,rule_exact_intuitive,0
+R_9OBJ6XMuIvupbBT,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_9OBJ6XMuIvupbBT,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9OBJ6XMuIvupbBT,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9OBJ6XMuIvupbBT,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9OBJ6XMuIvupbBT,bcrt_q1,BCRT,1 hr and 30 minutes,1.0,2.0,rule_numeric_correct,0
+R_9OBJ6XMuIvupbBT,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9OBJ6XMuIvupbBT,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9OBJ6XMuIvupbBT,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9OBJ6XMuIvupbBT,bcrt_q5,BCRT,brohter,0.0,0.0,rule_other,0
+R_9OBJ6XMuIvupbBT,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_41tqrr81pmslC2o,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,1
+R_41tqrr81pmslC2o,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_41tqrr81pmslC2o,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_41tqrr81pmslC2o,crt2_q4,CRT2,none,1.0,2.0,rule_exact_correct,1
+R_41tqrr81pmslC2o,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,1
+R_41tqrr81pmslC2o,bcrt_q2,BCRT,400 profit,1.0,2.0,rule_numeric_correct,1
+R_41tqrr81pmslC2o,bcrt_q3,BCRT,5,0.0,0.0,rule_other,1
+R_41tqrr81pmslC2o,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,1
+R_41tqrr81pmslC2o,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_41tqrr81pmslC2o,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9MXiwwiMAMXAFTb,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_9MXiwwiMAMXAFTb,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9MXiwwiMAMXAFTb,crt2_q3,CRT2,i don't know,0.0,0.0,rule_other,1
+R_9MXiwwiMAMXAFTb,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_9MXiwwiMAMXAFTb,bcrt_q1,BCRT,we don't know,0.0,0.0,rule_other,1
+R_9MXiwwiMAMXAFTb,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9MXiwwiMAMXAFTb,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_9MXiwwiMAMXAFTb,bcrt_q4,BCRT,0,0.0,0.0,rule_other,1
+R_9MXiwwiMAMXAFTb,bcrt_q5,BCRT,his daughter/son,0.0,0.0,rule_other,1
+R_9MXiwwiMAMXAFTb,bcrt_q6,BCRT,we don't know if anne married,0.0,0.0,rule_other,1
+R_410cYNjEF8U3sUw,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_410cYNjEF8U3sUw,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_410cYNjEF8U3sUw,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_410cYNjEF8U3sUw,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_410cYNjEF8U3sUw,bcrt_q1,BCRT,1 and a half hour,1.0,2.0,rule_numeric_correct,0
+R_410cYNjEF8U3sUw,bcrt_q2,BCRT,$200,0.0,0.0,rule_other,0
+R_410cYNjEF8U3sUw,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_410cYNjEF8U3sUw,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_410cYNjEF8U3sUw,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_410cYNjEF8U3sUw,bcrt_q6,BCRT,maybe,0.0,0.0,rule_other,0
+R_41mv5PqgOB4V5eO,crt2_q1,CRT2,second.,1.0,2.0,rule_fuzzy_correct,1
+R_41mv5PqgOB4V5eO,crt2_q2,CRT2,8.,0.0,0.0,rule_other,1
+R_41mv5PqgOB4V5eO,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_41mv5PqgOB4V5eO,crt2_q4,CRT2,0.,0.0,0.0,rule_other,0
+R_41mv5PqgOB4V5eO,bcrt_q1,BCRT,1 hour.,1.0,2.0,rule_numeric_correct,0
+R_41mv5PqgOB4V5eO,bcrt_q2,BCRT,400.,1.0,2.0,rule_numeric_correct,0
+R_41mv5PqgOB4V5eO,bcrt_q3,BCRT,8 days.,1.0,2.0,rule_numeric_correct,0
+R_41mv5PqgOB4V5eO,bcrt_q4,BCRT,"never, as the boat moves with the tide.",1.0,2.0,rule_phrase_correct,0
+R_41mv5PqgOB4V5eO,bcrt_q5,BCRT,his son.,1.0,2.0,rule_fuzzy_correct,0
+R_41mv5PqgOB4V5eO,bcrt_q6,BCRT,"yes, in both instances whether anne is married or not.",1.0,2.0,rule_phrase_correct,1
+R_9S8kFXSoliHXPI0,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9S8kFXSoliHXPI0,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9S8kFXSoliHXPI0,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9S8kFXSoliHXPI0,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,1
+R_9S8kFXSoliHXPI0,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_9S8kFXSoliHXPI0,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_9S8kFXSoliHXPI0,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,1
+R_9S8kFXSoliHXPI0,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,1
+R_9S8kFXSoliHXPI0,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_9S8kFXSoliHXPI0,bcrt_q6,BCRT,unsure,0.0,1.0,rule_exact_intuitive,1
+R_9ErPXg9B4fMpOaU,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9ErPXg9B4fMpOaU,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9ErPXg9B4fMpOaU,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9ErPXg9B4fMpOaU,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9ErPXg9B4fMpOaU,bcrt_q1,BCRT,90 mins,0.0,0.0,rule_other,0
+R_9ErPXg9B4fMpOaU,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9ErPXg9B4fMpOaU,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9ErPXg9B4fMpOaU,bcrt_q4,BCRT,4 hrs,0.0,0.0,rule_other,0
+R_9ErPXg9B4fMpOaU,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9ErPXg9B4fMpOaU,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4eWcXmeJCwN6sdV,crt2_q1,CRT2,1st,0.0,1.0,rule_exact_intuitive,0
+R_4eWcXmeJCwN6sdV,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_4eWcXmeJCwN6sdV,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4eWcXmeJCwN6sdV,crt2_q4,CRT2,there would be no dirt in the whole? but the volume of the hole would be 27 cubic feet,1.0,2.0,rule_phrase_correct,0
+R_4eWcXmeJCwN6sdV,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,0
+R_4eWcXmeJCwN6sdV,bcrt_q2,BCRT,$300,0.0,1.0,rule_exact_intuitive,0
+R_4eWcXmeJCwN6sdV,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4eWcXmeJCwN6sdV,bcrt_q4,BCRT,1hr 20min,0.0,0.0,rule_other,0
+R_4eWcXmeJCwN6sdV,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4eWcXmeJCwN6sdV,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9zVyPAZgzVC56Yp,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,1
+R_9zVyPAZgzVC56Yp,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9zVyPAZgzVC56Yp,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9zVyPAZgzVC56Yp,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9zVyPAZgzVC56Yp,bcrt_q1,BCRT,half an hour,0.0,0.0,rule_other,0
+R_9zVyPAZgzVC56Yp,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9zVyPAZgzVC56Yp,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9zVyPAZgzVC56Yp,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9zVyPAZgzVC56Yp,bcrt_q5,BCRT,himself?,0.0,1.0,rule_fuzzy_intuitive,0
+R_9zVyPAZgzVC56Yp,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4X1cMCJsXh1khRi,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_4X1cMCJsXh1khRi,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4X1cMCJsXh1khRi,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4X1cMCJsXh1khRi,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4X1cMCJsXh1khRi,bcrt_q1,BCRT,1 and a half hour,1.0,2.0,rule_numeric_correct,0
+R_4X1cMCJsXh1khRi,bcrt_q2,BCRT,200,0.0,0.0,rule_other,0
+R_4X1cMCJsXh1khRi,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4X1cMCJsXh1khRi,bcrt_q4,BCRT,i dont understand it,0.0,0.0,rule_other,0
+R_4X1cMCJsXh1khRi,bcrt_q5,BCRT,he himself,0.0,0.0,rule_other,0
+R_4X1cMCJsXh1khRi,bcrt_q6,BCRT,we dont know if anne is married,0.0,0.0,rule_other,0
+R_4pzNbMaAStZDdZc,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4pzNbMaAStZDdZc,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4pzNbMaAStZDdZc,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4pzNbMaAStZDdZc,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4pzNbMaAStZDdZc,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_4pzNbMaAStZDdZc,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4pzNbMaAStZDdZc,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4pzNbMaAStZDdZc,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4pzNbMaAStZDdZc,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4pzNbMaAStZDdZc,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_4d0qm12JJ7lAD6Z,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,0
+R_4d0qm12JJ7lAD6Z,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4d0qm12JJ7lAD6Z,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4d0qm12JJ7lAD6Z,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4d0qm12JJ7lAD6Z,bcrt_q1,BCRT,90 min,0.0,0.0,rule_other,0
+R_4d0qm12JJ7lAD6Z,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,0
+R_4d0qm12JJ7lAD6Z,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_4d0qm12JJ7lAD6Z,bcrt_q4,BCRT,4hrs,0.0,0.0,rule_other,0
+R_4d0qm12JJ7lAD6Z,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4d0qm12JJ7lAD6Z,bcrt_q6,BCRT,not enough info?,0.0,0.0,rule_other,0
+R_98LEQQbG1QLjGs9,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_98LEQQbG1QLjGs9,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_98LEQQbG1QLjGs9,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_98LEQQbG1QLjGs9,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_98LEQQbG1QLjGs9,bcrt_q1,BCRT,90 minutes,0.0,1.0,rule_exact_intuitive,0
+R_98LEQQbG1QLjGs9,bcrt_q2,BCRT,400 dollars,1.0,2.0,rule_exact_correct,1
+R_98LEQQbG1QLjGs9,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_98LEQQbG1QLjGs9,bcrt_q4,BCRT,2 hrs 40 minutes,0.0,1.0,rule_fuzzy_intuitive,0
+R_98LEQQbG1QLjGs9,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_98LEQQbG1QLjGs9,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_439cnIgNhLdMTUI,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_439cnIgNhLdMTUI,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_439cnIgNhLdMTUI,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_439cnIgNhLdMTUI,crt2_q4,CRT2,"0, because its a hole",0.0,0.0,rule_other,0
+R_439cnIgNhLdMTUI,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_439cnIgNhLdMTUI,bcrt_q2,BCRT,$300,0.0,1.0,rule_exact_intuitive,1
+R_439cnIgNhLdMTUI,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_439cnIgNhLdMTUI,bcrt_q4,BCRT,1 hour 30 minutes,0.0,0.0,rule_other,0
+R_439cnIgNhLdMTUI,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_439cnIgNhLdMTUI,bcrt_q6,BCRT,"we cant tell, there is no information about annes marital status",0.0,0.0,rule_other,0
+R_4kM44HpIMuSFtsQ,crt2_q1,CRT2,1st,0.0,1.0,rule_exact_intuitive,0
+R_4kM44HpIMuSFtsQ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4kM44HpIMuSFtsQ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4kM44HpIMuSFtsQ,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4kM44HpIMuSFtsQ,bcrt_q1,BCRT,3 hours,0.0,0.0,rule_other,0
+R_4kM44HpIMuSFtsQ,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4kM44HpIMuSFtsQ,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_4kM44HpIMuSFtsQ,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_4kM44HpIMuSFtsQ,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4kM44HpIMuSFtsQ,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9RvC2KWwEic82Dm,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_9RvC2KWwEic82Dm,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9RvC2KWwEic82Dm,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_9RvC2KWwEic82Dm,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9RvC2KWwEic82Dm,bcrt_q1,BCRT,hour and a half,0.0,0.0,rule_other,0
+R_9RvC2KWwEic82Dm,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9RvC2KWwEic82Dm,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9RvC2KWwEic82Dm,bcrt_q4,BCRT,2,0.0,0.0,rule_other,0
+R_9RvC2KWwEic82Dm,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9RvC2KWwEic82Dm,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4FxFPJXtfIewh7W,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4FxFPJXtfIewh7W,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4FxFPJXtfIewh7W,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4FxFPJXtfIewh7W,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4FxFPJXtfIewh7W,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_4FxFPJXtfIewh7W,bcrt_q2,BCRT,0,0.0,0.0,rule_other,0
+R_4FxFPJXtfIewh7W,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4FxFPJXtfIewh7W,bcrt_q4,BCRT,2 hours,0.0,0.0,rule_other,0
+R_4FxFPJXtfIewh7W,bcrt_q5,BCRT,nephew,0.0,0.0,rule_other,0
+R_4FxFPJXtfIewh7W,bcrt_q6,BCRT,dk if anne is married or not,0.0,0.0,rule_other,0
+R_41KlBJpdsWwJ4wV,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_41KlBJpdsWwJ4wV,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_41KlBJpdsWwJ4wV,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_41KlBJpdsWwJ4wV,crt2_q4,CRT2,zero,1.0,2.0,rule_exact_correct,0
+R_41KlBJpdsWwJ4wV,bcrt_q1,BCRT,1hr 30min,1.0,2.0,rule_numeric_correct,0
+R_41KlBJpdsWwJ4wV,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_41KlBJpdsWwJ4wV,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_41KlBJpdsWwJ4wV,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,0
+R_41KlBJpdsWwJ4wV,bcrt_q5,BCRT,son,1.0,2.0,rule_exact_correct,0
+R_41KlBJpdsWwJ4wV,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4rVmGuGDOlDTrA8,crt2_q1,CRT2,third,0.0,0.0,rule_other,0
+R_4rVmGuGDOlDTrA8,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4rVmGuGDOlDTrA8,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4rVmGuGDOlDTrA8,crt2_q4,CRT2,0 cubic feet of dirt.,0.0,0.0,rule_other,0
+R_4rVmGuGDOlDTrA8,bcrt_q1,BCRT,1.5hrs,0.0,0.0,rule_other,0
+R_4rVmGuGDOlDTrA8,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_4rVmGuGDOlDTrA8,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_4rVmGuGDOlDTrA8,bcrt_q4,BCRT,the number of rungs covered stays the same — zero. so: it will never happen. no rungs will be submerged no matter how long you wait.,1.0,2.0,rule_phrase_correct,0
+R_4rVmGuGDOlDTrA8,bcrt_q5,BCRT,his son's potrait,0.0,0.0,rule_other,0
+R_4rVmGuGDOlDTrA8,bcrt_q6,BCRT,"yes, a married person is looking at an unmarried person.",1.0,2.0,rule_phrase_correct,0
+R_4IcXnJCqG7enIII,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,1
+R_4IcXnJCqG7enIII,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4IcXnJCqG7enIII,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4IcXnJCqG7enIII,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4IcXnJCqG7enIII,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_4IcXnJCqG7enIII,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4IcXnJCqG7enIII,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_4IcXnJCqG7enIII,bcrt_q4,BCRT,?,0.0,0.0,rule_other,0
+R_4IcXnJCqG7enIII,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_4IcXnJCqG7enIII,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4gTwmzU00VQzFGG,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4gTwmzU00VQzFGG,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4gTwmzU00VQzFGG,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4gTwmzU00VQzFGG,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4gTwmzU00VQzFGG,bcrt_q1,BCRT,1:30,1.0,2.0,rule_numeric_correct,0
+R_4gTwmzU00VQzFGG,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,0
+R_4gTwmzU00VQzFGG,bcrt_q3,BCRT,10days,0.0,0.0,rule_other,0
+R_4gTwmzU00VQzFGG,bcrt_q4,BCRT,3hours,0.0,0.0,rule_other,0
+R_4gTwmzU00VQzFGG,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4gTwmzU00VQzFGG,bcrt_q6,BCRT,jack is looking at anne,0.0,0.0,rule_other,0
+R_9SrwGFpW1NuWcTL,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_9SrwGFpW1NuWcTL,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9SrwGFpW1NuWcTL,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9SrwGFpW1NuWcTL,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9SrwGFpW1NuWcTL,bcrt_q1,BCRT,1.5 hoirs,0.0,0.0,rule_other,1
+R_9SrwGFpW1NuWcTL,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9SrwGFpW1NuWcTL,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9SrwGFpW1NuWcTL,bcrt_q4,BCRT,60,0.0,0.0,rule_other,0
+R_9SrwGFpW1NuWcTL,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9SrwGFpW1NuWcTL,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4mlxyaZfyHqzoIs,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_4mlxyaZfyHqzoIs,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_4mlxyaZfyHqzoIs,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4mlxyaZfyHqzoIs,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,0
+R_4mlxyaZfyHqzoIs,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_4mlxyaZfyHqzoIs,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4mlxyaZfyHqzoIs,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4mlxyaZfyHqzoIs,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_4mlxyaZfyHqzoIs,bcrt_q5,BCRT,his own portrait,0.0,0.0,rule_other,0
+R_4mlxyaZfyHqzoIs,bcrt_q6,BCRT,no information on anne being married/unmarried,0.0,0.0,rule_other,0
+R_9D0H2cidGGIgHTk,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_9D0H2cidGGIgHTk,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9D0H2cidGGIgHTk,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_9D0H2cidGGIgHTk,crt2_q4,CRT2,18,0.0,1.0,rule_regex_intuitive,0
+R_9D0H2cidGGIgHTk,bcrt_q1,BCRT,3 hrs,0.0,0.0,rule_other,0
+R_9D0H2cidGGIgHTk,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9D0H2cidGGIgHTk,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9D0H2cidGGIgHTk,bcrt_q4,BCRT,4 hrs,0.0,0.0,rule_other,0
+R_9D0H2cidGGIgHTk,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,1
+R_9D0H2cidGGIgHTk,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4ps1aBwfiUlBGgw,crt2_q1,CRT2,1st,0.0,1.0,rule_exact_intuitive,0
+R_4ps1aBwfiUlBGgw,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_4ps1aBwfiUlBGgw,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4ps1aBwfiUlBGgw,crt2_q4,CRT2,19.683,0.0,1.0,rule_regex_intuitive,0
+R_4ps1aBwfiUlBGgw,bcrt_q1,BCRT,half an hour,0.0,0.0,rule_other,0
+R_4ps1aBwfiUlBGgw,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4ps1aBwfiUlBGgw,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4ps1aBwfiUlBGgw,bcrt_q4,BCRT,2,0.0,0.0,rule_other,0
+R_4ps1aBwfiUlBGgw,bcrt_q5,BCRT,step brother,0.0,0.0,rule_other,0
+R_4ps1aBwfiUlBGgw,bcrt_q6,BCRT,depends if anne is married or un married,0.0,0.0,rule_other,0
+R_3nIZ7fgaHieiBpZ,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_3nIZ7fgaHieiBpZ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_3nIZ7fgaHieiBpZ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_3nIZ7fgaHieiBpZ,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,0
+R_3nIZ7fgaHieiBpZ,bcrt_q1,BCRT,1 day,1.0,2.0,rule_numeric_correct,0
+R_3nIZ7fgaHieiBpZ,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_3nIZ7fgaHieiBpZ,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_3nIZ7fgaHieiBpZ,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_3nIZ7fgaHieiBpZ,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_3nIZ7fgaHieiBpZ,bcrt_q6,BCRT,you can't know,0.0,0.0,rule_other,0
+R_43bHQ8gIy43Qqn7,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_43bHQ8gIy43Qqn7,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_43bHQ8gIy43Qqn7,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_43bHQ8gIy43Qqn7,crt2_q4,CRT2,27'^3,0.0,0.0,rule_other,0
+R_43bHQ8gIy43Qqn7,bcrt_q1,BCRT,1 hour and a half,1.0,2.0,rule_numeric_correct,0
+R_43bHQ8gIy43Qqn7,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_43bHQ8gIy43Qqn7,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_43bHQ8gIy43Qqn7,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_43bHQ8gIy43Qqn7,bcrt_q5,BCRT,his nephew,0.0,0.0,rule_other,0
+R_43bHQ8gIy43Qqn7,bcrt_q6,BCRT,unknown,0.0,0.0,rule_other,0
+R_41jSm6yTj5RoCxr,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_41jSm6yTj5RoCxr,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_41jSm6yTj5RoCxr,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_41jSm6yTj5RoCxr,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_41jSm6yTj5RoCxr,bcrt_q1,BCRT,30 minutes,1.0,2.0,rule_fuzzy_correct,0
+R_41jSm6yTj5RoCxr,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_41jSm6yTj5RoCxr,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_41jSm6yTj5RoCxr,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_41jSm6yTj5RoCxr,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_41jSm6yTj5RoCxr,bcrt_q6,BCRT,we don't know as we don't know whether anne is married or not,0.0,0.0,rule_other,0
+R_9VNIBkBFb8rdq4G,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9VNIBkBFb8rdq4G,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9VNIBkBFb8rdq4G,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9VNIBkBFb8rdq4G,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9VNIBkBFb8rdq4G,bcrt_q1,BCRT,1.5h,0.0,0.0,rule_other,0
+R_9VNIBkBFb8rdq4G,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_9VNIBkBFb8rdq4G,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_9VNIBkBFb8rdq4G,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9VNIBkBFb8rdq4G,bcrt_q5,BCRT,his son's,0.0,0.0,rule_other,0
+R_9VNIBkBFb8rdq4G,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9i3WqkbyXzPIOUM,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,1
+R_9i3WqkbyXzPIOUM,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9i3WqkbyXzPIOUM,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9i3WqkbyXzPIOUM,crt2_q4,CRT2,2,0.0,1.0,rule_regex_intuitive,0
+R_9i3WqkbyXzPIOUM,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,0
+R_9i3WqkbyXzPIOUM,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9i3WqkbyXzPIOUM,bcrt_q3,BCRT,7,0.0,0.0,rule_other,0
+R_9i3WqkbyXzPIOUM,bcrt_q4,BCRT,2.6 hrs,0.0,0.0,rule_other,0
+R_9i3WqkbyXzPIOUM,bcrt_q5,BCRT,his half-brother's child,0.0,0.0,rule_other,0
+R_9i3WqkbyXzPIOUM,bcrt_q6,BCRT,cannot tell with current information,0.0,0.0,rule_other,0
+R_4Pk4ukh82fcM9bX,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,0
+R_4Pk4ukh82fcM9bX,crt2_q2,CRT2,0,0.0,0.0,rule_other,0
+R_4Pk4ukh82fcM9bX,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4Pk4ukh82fcM9bX,crt2_q4,CRT2,none,1.0,2.0,rule_exact_correct,0
+R_4Pk4ukh82fcM9bX,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_4Pk4ukh82fcM9bX,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4Pk4ukh82fcM9bX,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4Pk4ukh82fcM9bX,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,0
+R_4Pk4ukh82fcM9bX,bcrt_q5,BCRT,its himself,0.0,0.0,rule_other,0
+R_4Pk4ukh82fcM9bX,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9hAOLp1N0EAyxFO,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9hAOLp1N0EAyxFO,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9hAOLp1N0EAyxFO,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9hAOLp1N0EAyxFO,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9hAOLp1N0EAyxFO,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9hAOLp1N0EAyxFO,bcrt_q2,BCRT,he loses 700,0.0,0.0,rule_other,0
+R_9hAOLp1N0EAyxFO,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9hAOLp1N0EAyxFO,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9hAOLp1N0EAyxFO,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_9hAOLp1N0EAyxFO,bcrt_q6,BCRT,can't tell,0.0,1.0,rule_exact_intuitive,0
+R_9dRnGUVSL6lM6hl,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9dRnGUVSL6lM6hl,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9dRnGUVSL6lM6hl,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9dRnGUVSL6lM6hl,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,1
+R_9dRnGUVSL6lM6hl,bcrt_q1,BCRT,1 hr,1.0,2.0,rule_exact_correct,0
+R_9dRnGUVSL6lM6hl,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9dRnGUVSL6lM6hl,bcrt_q3,BCRT,9,0.0,1.0,rule_exact_intuitive,0
+R_9dRnGUVSL6lM6hl,bcrt_q4,BCRT,2hrs40mins,0.0,0.0,rule_other,0
+R_9dRnGUVSL6lM6hl,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_9dRnGUVSL6lM6hl,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_41ZtrfyfjJVGLwO,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_41ZtrfyfjJVGLwO,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_41ZtrfyfjJVGLwO,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_41ZtrfyfjJVGLwO,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,1
+R_41ZtrfyfjJVGLwO,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,0
+R_41ZtrfyfjJVGLwO,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_41ZtrfyfjJVGLwO,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_41ZtrfyfjJVGLwO,bcrt_q4,BCRT,1 hour,0.0,0.0,rule_other,0
+R_41ZtrfyfjJVGLwO,bcrt_q5,BCRT,grandfather,0.0,0.0,rule_other,0
+R_41ZtrfyfjJVGLwO,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9uK9OU4Zgkx3Pxv,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9uK9OU4Zgkx3Pxv,crt2_q2,CRT2,8 are left,0.0,0.0,rule_other,0
+R_9uK9OU4Zgkx3Pxv,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9uK9OU4Zgkx3Pxv,crt2_q4,CRT2,3 cubic feet,0.0,0.0,rule_other,0
+R_9uK9OU4Zgkx3Pxv,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9uK9OU4Zgkx3Pxv,bcrt_q2,BCRT,$500,0.0,0.0,rule_other,0
+R_9uK9OU4Zgkx3Pxv,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9uK9OU4Zgkx3Pxv,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,0
+R_9uK9OU4Zgkx3Pxv,bcrt_q5,BCRT,his own son,0.0,0.0,rule_other,0
+R_9uK9OU4Zgkx3Pxv,bcrt_q6,BCRT,impossible to know because we don't know if anne is married,0.0,0.0,rule_other,0
+R_4K6A3cW1Y4DCpEZ,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,0
+R_4K6A3cW1Y4DCpEZ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4K6A3cW1Y4DCpEZ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4K6A3cW1Y4DCpEZ,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4K6A3cW1Y4DCpEZ,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,0
+R_4K6A3cW1Y4DCpEZ,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4K6A3cW1Y4DCpEZ,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4K6A3cW1Y4DCpEZ,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4K6A3cW1Y4DCpEZ,bcrt_q5,BCRT,his sons,1.0,2.0,rule_fuzzy_correct,1
+R_4K6A3cW1Y4DCpEZ,bcrt_q6,BCRT,not enough info,0.0,0.0,rule_other,1
+R_45sFQ1KiRZd5vcZ,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_45sFQ1KiRZd5vcZ,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_45sFQ1KiRZd5vcZ,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_45sFQ1KiRZd5vcZ,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_45sFQ1KiRZd5vcZ,bcrt_q1,BCRT,30 mins,0.0,0.0,rule_other,1
+R_45sFQ1KiRZd5vcZ,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,1
+R_45sFQ1KiRZd5vcZ,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_45sFQ1KiRZd5vcZ,bcrt_q4,BCRT,at least 4 hours,0.0,0.0,rule_other,1
+R_45sFQ1KiRZd5vcZ,bcrt_q5,BCRT,dad,0.0,0.0,rule_other,1
+R_45sFQ1KiRZd5vcZ,bcrt_q6,BCRT,maybe,0.0,0.0,rule_other,1
+R_9EAyjcuzWwlSWsB,crt2_q1,CRT2,1st,0.0,1.0,rule_exact_intuitive,1
+R_9EAyjcuzWwlSWsB,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9EAyjcuzWwlSWsB,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9EAyjcuzWwlSWsB,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_9EAyjcuzWwlSWsB,bcrt_q1,BCRT,1 hour and 30 mins,1.0,2.0,rule_numeric_correct,1
+R_9EAyjcuzWwlSWsB,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9EAyjcuzWwlSWsB,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,1
+R_9EAyjcuzWwlSWsB,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,1
+R_9EAyjcuzWwlSWsB,bcrt_q5,BCRT,nephew,0.0,0.0,rule_other,1
+R_9EAyjcuzWwlSWsB,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,1
+R_98LIgzqqTXmkhm0,crt2_q1,CRT2,2nd place,0.0,0.0,rule_other,1
+R_98LIgzqqTXmkhm0,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_98LIgzqqTXmkhm0,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_98LIgzqqTXmkhm0,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_98LIgzqqTXmkhm0,bcrt_q1,BCRT,"1.5 hours, 30mins each.",0.0,0.0,rule_other,0
+R_98LIgzqqTXmkhm0,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_98LIgzqqTXmkhm0,bcrt_q3,BCRT,10 days.,0.0,0.0,rule_other,0
+R_98LIgzqqTXmkhm0,bcrt_q4,BCRT,3 hours- 3 rungs including the bottom rung.,0.0,0.0,rule_other,0
+R_98LIgzqqTXmkhm0,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_98LIgzqqTXmkhm0,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4LUM6rz4IyYO7mN,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_4LUM6rz4IyYO7mN,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4LUM6rz4IyYO7mN,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4LUM6rz4IyYO7mN,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,1
+R_4LUM6rz4IyYO7mN,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_4LUM6rz4IyYO7mN,bcrt_q2,BCRT,200,0.0,0.0,rule_other,1
+R_4LUM6rz4IyYO7mN,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4LUM6rz4IyYO7mN,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,1
+R_4LUM6rz4IyYO7mN,bcrt_q5,BCRT,son,1.0,2.0,rule_exact_correct,1
+R_4LUM6rz4IyYO7mN,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_4G3x7Ipdxkppf60,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,1
+R_4G3x7Ipdxkppf60,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_4G3x7Ipdxkppf60,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4G3x7Ipdxkppf60,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4G3x7Ipdxkppf60,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,1
+R_4G3x7Ipdxkppf60,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_4G3x7Ipdxkppf60,bcrt_q3,BCRT,7,0.0,0.0,rule_other,1
+R_4G3x7Ipdxkppf60,bcrt_q4,BCRT,5 hours,0.0,0.0,rule_other,1
+R_4G3x7Ipdxkppf60,bcrt_q5,BCRT,his nephew,0.0,0.0,rule_other,0
+R_4G3x7Ipdxkppf60,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9QRrJIoDjaTtkjA,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,1
+R_9QRrJIoDjaTtkjA,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9QRrJIoDjaTtkjA,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9QRrJIoDjaTtkjA,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,1
+R_9QRrJIoDjaTtkjA,bcrt_q1,BCRT,1.5hr,0.0,0.0,rule_other,1
+R_9QRrJIoDjaTtkjA,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9QRrJIoDjaTtkjA,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_9QRrJIoDjaTtkjA,bcrt_q4,BCRT,4,0.0,0.0,rule_other,1
+R_9QRrJIoDjaTtkjA,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,1
+R_9QRrJIoDjaTtkjA,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_4R8X3R31XZPpPUJ,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,0
+R_4R8X3R31XZPpPUJ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4R8X3R31XZPpPUJ,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_4R8X3R31XZPpPUJ,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4R8X3R31XZPpPUJ,bcrt_q1,BCRT,1 hr 30 mins,1.0,2.0,rule_numeric_correct,0
+R_4R8X3R31XZPpPUJ,bcrt_q2,BCRT,400$,1.0,2.0,rule_numeric_correct,0
+R_4R8X3R31XZPpPUJ,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_4R8X3R31XZPpPUJ,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_4R8X3R31XZPpPUJ,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4R8X3R31XZPpPUJ,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9QD8SaZyhUCSZNv,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,1
+R_9QD8SaZyhUCSZNv,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9QD8SaZyhUCSZNv,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_9QD8SaZyhUCSZNv,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,1
+R_9QD8SaZyhUCSZNv,bcrt_q1,BCRT,half an hour,0.0,0.0,rule_other,1
+R_9QD8SaZyhUCSZNv,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9QD8SaZyhUCSZNv,bcrt_q3,BCRT,8th morning,1.0,2.0,rule_numeric_correct,1
+R_9QD8SaZyhUCSZNv,bcrt_q4,BCRT,1hour,0.0,0.0,rule_other,1
+R_9QD8SaZyhUCSZNv,bcrt_q5,BCRT,cousins,0.0,0.0,rule_other,1
+R_9QD8SaZyhUCSZNv,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,1
+R_4xxzZCYZMQA1Fjg,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4xxzZCYZMQA1Fjg,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4xxzZCYZMQA1Fjg,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_4xxzZCYZMQA1Fjg,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4xxzZCYZMQA1Fjg,bcrt_q1,BCRT,1 hour 30 mins,1.0,2.0,rule_numeric_correct,0
+R_4xxzZCYZMQA1Fjg,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,0
+R_4xxzZCYZMQA1Fjg,bcrt_q3,BCRT,9,0.0,1.0,rule_exact_intuitive,0
+R_4xxzZCYZMQA1Fjg,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4xxzZCYZMQA1Fjg,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4xxzZCYZMQA1Fjg,bcrt_q6,BCRT,it doesnt say as jack is the only 1 married but we are unsure of anne,0.0,0.0,rule_other,0
+R_9NVmMfCzK0yrrZn,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_9NVmMfCzK0yrrZn,crt2_q2,CRT2,8 sheep,1.0,2.0,rule_exact_correct,1
+R_9NVmMfCzK0yrrZn,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9NVmMfCzK0yrrZn,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_9NVmMfCzK0yrrZn,bcrt_q1,BCRT,an hour and a half,0.0,0.0,rule_other,1
+R_9NVmMfCzK0yrrZn,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9NVmMfCzK0yrrZn,bcrt_q3,BCRT,8 day 7 night,1.0,2.0,rule_numeric_correct,1
+R_9NVmMfCzK0yrrZn,bcrt_q4,BCRT,4,0.0,0.0,rule_other,1
+R_9NVmMfCzK0yrrZn,bcrt_q5,BCRT,son,1.0,2.0,rule_exact_correct,1
+R_9NVmMfCzK0yrrZn,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9PAVCZ89IcvlfBk,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9PAVCZ89IcvlfBk,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9PAVCZ89IcvlfBk,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9PAVCZ89IcvlfBk,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9PAVCZ89IcvlfBk,bcrt_q1,BCRT,an hour,0.0,0.0,rule_other,0
+R_9PAVCZ89IcvlfBk,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_9PAVCZ89IcvlfBk,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,1
+R_9PAVCZ89IcvlfBk,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9PAVCZ89IcvlfBk,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9PAVCZ89IcvlfBk,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9nBlIRrmWhtjCPl,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,0
+R_9nBlIRrmWhtjCPl,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9nBlIRrmWhtjCPl,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9nBlIRrmWhtjCPl,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9nBlIRrmWhtjCPl,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,0
+R_9nBlIRrmWhtjCPl,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,0
+R_9nBlIRrmWhtjCPl,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_9nBlIRrmWhtjCPl,bcrt_q4,BCRT,4hrs,0.0,0.0,rule_other,0
+R_9nBlIRrmWhtjCPl,bcrt_q5,BCRT,grandfather,0.0,0.0,rule_other,0
+R_9nBlIRrmWhtjCPl,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4oIjFTLvhqtZ7UM,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4oIjFTLvhqtZ7UM,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4oIjFTLvhqtZ7UM,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4oIjFTLvhqtZ7UM,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4oIjFTLvhqtZ7UM,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,0
+R_4oIjFTLvhqtZ7UM,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4oIjFTLvhqtZ7UM,bcrt_q3,BCRT,7,0.0,0.0,rule_other,0
+R_4oIjFTLvhqtZ7UM,bcrt_q4,BCRT,2,0.0,0.0,rule_other,0
+R_4oIjFTLvhqtZ7UM,bcrt_q5,BCRT,son,1.0,2.0,rule_exact_correct,0
+R_4oIjFTLvhqtZ7UM,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9zvj7mgXc2CCZKn,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9zvj7mgXc2CCZKn,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9zvj7mgXc2CCZKn,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9zvj7mgXc2CCZKn,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,1
+R_9zvj7mgXc2CCZKn,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_9zvj7mgXc2CCZKn,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9zvj7mgXc2CCZKn,bcrt_q3,BCRT,7,0.0,0.0,rule_other,1
+R_9zvj7mgXc2CCZKn,bcrt_q4,BCRT,0,0.0,0.0,rule_other,1
+R_9zvj7mgXc2CCZKn,bcrt_q5,BCRT,his nephew,0.0,0.0,rule_other,1
+R_9zvj7mgXc2CCZKn,bcrt_q6,BCRT,maybe,0.0,0.0,rule_other,1
+R_4kppi5Tsg3rTVkZ,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_4kppi5Tsg3rTVkZ,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_4kppi5Tsg3rTVkZ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4kppi5Tsg3rTVkZ,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4kppi5Tsg3rTVkZ,bcrt_q1,BCRT,1hour,1.0,2.0,rule_numeric_correct,0
+R_4kppi5Tsg3rTVkZ,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4kppi5Tsg3rTVkZ,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_4kppi5Tsg3rTVkZ,bcrt_q4,BCRT,80mins,0.0,0.0,rule_other,0
+R_4kppi5Tsg3rTVkZ,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4kppi5Tsg3rTVkZ,bcrt_q6,BCRT,not sure,0.0,0.0,rule_other,0
+R_4lLa3jvZvd4lVpy,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,0
+R_4lLa3jvZvd4lVpy,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4lLa3jvZvd4lVpy,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4lLa3jvZvd4lVpy,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4lLa3jvZvd4lVpy,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_4lLa3jvZvd4lVpy,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4lLa3jvZvd4lVpy,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4lLa3jvZvd4lVpy,bcrt_q4,BCRT,they won't be covered because the ship rises as the tide does?,0.0,0.0,rule_other,0
+R_4lLa3jvZvd4lVpy,bcrt_q5,BCRT,his son's.,0.0,0.0,rule_other,0
+R_4lLa3jvZvd4lVpy,bcrt_q6,BCRT,don't know because anne's marital status is unknown,0.0,0.0,rule_other,0
+R_4dudAjdABDb7Msl,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4dudAjdABDb7Msl,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4dudAjdABDb7Msl,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4dudAjdABDb7Msl,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4dudAjdABDb7Msl,bcrt_q1,BCRT,1hr 30,1.0,2.0,rule_numeric_correct,0
+R_4dudAjdABDb7Msl,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4dudAjdABDb7Msl,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_4dudAjdABDb7Msl,bcrt_q4,BCRT,2hrs 40 mins,0.0,0.0,rule_other,0
+R_4dudAjdABDb7Msl,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4dudAjdABDb7Msl,bcrt_q6,BCRT,there is not enough info - need to know if anne is married,0.0,0.0,rule_other,0
+R_4Oqsqm5fERNfAw0,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_4Oqsqm5fERNfAw0,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4Oqsqm5fERNfAw0,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4Oqsqm5fERNfAw0,crt2_q4,CRT2,27' cubic feet,0.0,0.0,rule_other,0
+R_4Oqsqm5fERNfAw0,bcrt_q1,BCRT,1 1/2 hours,0.0,1.0,rule_exact_intuitive,0
+R_4Oqsqm5fERNfAw0,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4Oqsqm5fERNfAw0,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4Oqsqm5fERNfAw0,bcrt_q4,BCRT,it would take 2 hours and 40 minutes until 3 rungs are covered (maybe a bit longer to fully cover the last rung),0.0,0.0,rule_other,0
+R_4Oqsqm5fERNfAw0,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4Oqsqm5fERNfAw0,bcrt_q6,BCRT,"no, we do not know if anne is married or not",0.0,0.0,rule_other,0
+R_4erpfpI8p1ZfDah,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4erpfpI8p1ZfDah,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4erpfpI8p1ZfDah,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4erpfpI8p1ZfDah,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4erpfpI8p1ZfDah,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_4erpfpI8p1ZfDah,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4erpfpI8p1ZfDah,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4erpfpI8p1ZfDah,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4erpfpI8p1ZfDah,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_4erpfpI8p1ZfDah,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9mZKOVSC49g5zX3,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,1
+R_9mZKOVSC49g5zX3,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9mZKOVSC49g5zX3,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_9mZKOVSC49g5zX3,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_9mZKOVSC49g5zX3,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9mZKOVSC49g5zX3,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9mZKOVSC49g5zX3,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_9mZKOVSC49g5zX3,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,1
+R_9mZKOVSC49g5zX3,bcrt_q5,BCRT,his child,0.0,0.0,rule_other,1
+R_9mZKOVSC49g5zX3,bcrt_q6,BCRT,this depends on whether anne is married or not.,0.0,0.0,rule_other,0
+R_4Dvwp2rXBfPgWnp,crt2_q1,CRT2,1st,0.0,1.0,rule_exact_intuitive,1
+R_4Dvwp2rXBfPgWnp,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4Dvwp2rXBfPgWnp,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4Dvwp2rXBfPgWnp,crt2_q4,CRT2,i don't understand how can there be dirty in a hole? does a hole not mean empty space?,0.0,0.0,rule_other,0
+R_4Dvwp2rXBfPgWnp,bcrt_q1,BCRT,the effects of the pill last for half hour. it takes 1 hour to finish the pills.,1.0,2.0,rule_numeric_correct,0
+R_4Dvwp2rXBfPgWnp,bcrt_q2,BCRT,$200,0.0,0.0,rule_other,1
+R_4Dvwp2rXBfPgWnp,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_4Dvwp2rXBfPgWnp,bcrt_q4,BCRT,covered by what? the water? because if its rising then it should not be covered?,0.0,0.0,rule_other,0
+R_4Dvwp2rXBfPgWnp,bcrt_q5,BCRT,himself?,0.0,1.0,rule_fuzzy_intuitive,1
+R_4Dvwp2rXBfPgWnp,bcrt_q6,BCRT,yes if anne is not married and jack is.,1.0,2.0,rule_phrase_correct,0
+R_944ny0AxPq31Zip,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_944ny0AxPq31Zip,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_944ny0AxPq31Zip,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_944ny0AxPq31Zip,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_944ny0AxPq31Zip,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_944ny0AxPq31Zip,bcrt_q2,BCRT,$300,0.0,1.0,rule_exact_intuitive,0
+R_944ny0AxPq31Zip,bcrt_q3,BCRT,9,0.0,1.0,rule_exact_intuitive,0
+R_944ny0AxPq31Zip,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,0
+R_944ny0AxPq31Zip,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_944ny0AxPq31Zip,bcrt_q6,BCRT,depends if anne is married.,0.0,0.0,rule_other,0
+R_4bQ7vkzPuystEuH,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_4bQ7vkzPuystEuH,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4bQ7vkzPuystEuH,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_4bQ7vkzPuystEuH,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4bQ7vkzPuystEuH,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_4bQ7vkzPuystEuH,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4bQ7vkzPuystEuH,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4bQ7vkzPuystEuH,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,0
+R_4bQ7vkzPuystEuH,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4bQ7vkzPuystEuH,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4EFJc6lUEDNDi9w,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4EFJc6lUEDNDi9w,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4EFJc6lUEDNDi9w,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4EFJc6lUEDNDi9w,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,1
+R_4EFJc6lUEDNDi9w,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_4EFJc6lUEDNDi9w,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4EFJc6lUEDNDi9w,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4EFJc6lUEDNDi9w,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,1
+R_4EFJc6lUEDNDi9w,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_4EFJc6lUEDNDi9w,bcrt_q6,BCRT,"no idea, not sure about whether anne is married",0.0,0.0,rule_other,1
+R_9wubrUCWKLR4c2Y,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9wubrUCWKLR4c2Y,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9wubrUCWKLR4c2Y,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_9wubrUCWKLR4c2Y,crt2_q4,CRT2,27 inches,0.0,0.0,rule_other,0
+R_9wubrUCWKLR4c2Y,bcrt_q1,BCRT,an hour and a half,0.0,0.0,rule_other,0
+R_9wubrUCWKLR4c2Y,bcrt_q2,BCRT,$200,0.0,0.0,rule_other,0
+R_9wubrUCWKLR4c2Y,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9wubrUCWKLR4c2Y,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,0
+R_9wubrUCWKLR4c2Y,bcrt_q5,BCRT,nephew,0.0,0.0,rule_other,0
+R_9wubrUCWKLR4c2Y,bcrt_q6,BCRT,we do not know anne's marital status so it is hard to determine.,0.0,0.0,rule_other,0
+R_9THr3sTh9orw2vF,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,1
+R_9THr3sTh9orw2vF,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9THr3sTh9orw2vF,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9THr3sTh9orw2vF,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,1
+R_9THr3sTh9orw2vF,bcrt_q1,BCRT,an hour and a half,0.0,0.0,rule_other,1
+R_9THr3sTh9orw2vF,bcrt_q2,BCRT,1500,0.0,0.0,rule_other,0
+R_9THr3sTh9orw2vF,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,1
+R_9THr3sTh9orw2vF,bcrt_q4,BCRT,it wont cover,0.0,0.0,rule_other,1
+R_9THr3sTh9orw2vF,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,1
+R_9THr3sTh9orw2vF,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_4eKgzneBgOcLEid,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,0
+R_4eKgzneBgOcLEid,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4eKgzneBgOcLEid,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4eKgzneBgOcLEid,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4eKgzneBgOcLEid,bcrt_q1,BCRT,1.5,0.0,1.0,rule_exact_intuitive,0
+R_4eKgzneBgOcLEid,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4eKgzneBgOcLEid,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4eKgzneBgOcLEid,bcrt_q4,BCRT,2,0.0,0.0,rule_other,0
+R_4eKgzneBgOcLEid,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4eKgzneBgOcLEid,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9bLnX1BQG4bDWWB,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9bLnX1BQG4bDWWB,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9bLnX1BQG4bDWWB,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9bLnX1BQG4bDWWB,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_9bLnX1BQG4bDWWB,bcrt_q1,BCRT,6hrs,0.0,0.0,rule_other,1
+R_9bLnX1BQG4bDWWB,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_9bLnX1BQG4bDWWB,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,1
+R_9bLnX1BQG4bDWWB,bcrt_q4,BCRT,"2hrs and 40mins, because 2 more rungs need to be covered only",0.0,0.0,rule_other,0
+R_9bLnX1BQG4bDWWB,bcrt_q5,BCRT,his own son,0.0,0.0,rule_other,0
+R_9bLnX1BQG4bDWWB,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4urgxvgc132zoCi,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,0
+R_4urgxvgc132zoCi,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4urgxvgc132zoCi,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4urgxvgc132zoCi,crt2_q4,CRT2,1,0.0,1.0,rule_regex_intuitive,0
+R_4urgxvgc132zoCi,bcrt_q1,BCRT,hour and a half,0.0,0.0,rule_other,0
+R_4urgxvgc132zoCi,bcrt_q2,BCRT,none,0.0,0.0,rule_other,0
+R_4urgxvgc132zoCi,bcrt_q3,BCRT,7,0.0,0.0,rule_other,0
+R_4urgxvgc132zoCi,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4urgxvgc132zoCi,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4urgxvgc132zoCi,bcrt_q6,BCRT,we don't know,0.0,0.0,rule_other,0
+R_9kHvimlWxabzpn3,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9kHvimlWxabzpn3,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9kHvimlWxabzpn3,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9kHvimlWxabzpn3,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,0
+R_9kHvimlWxabzpn3,bcrt_q1,BCRT,4 hours,0.0,0.0,rule_other,0
+R_9kHvimlWxabzpn3,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9kHvimlWxabzpn3,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9kHvimlWxabzpn3,bcrt_q4,BCRT,2 hours 20 minutes,0.0,1.0,rule_fuzzy_intuitive,0
+R_9kHvimlWxabzpn3,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9kHvimlWxabzpn3,bcrt_q6,BCRT,dont know because the marriage status of anne is not given,0.0,0.0,rule_other,0
+R_9zSm0Rtpydxh50L,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_9zSm0Rtpydxh50L,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9zSm0Rtpydxh50L,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9zSm0Rtpydxh50L,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9zSm0Rtpydxh50L,bcrt_q1,BCRT,1 hr 30,1.0,2.0,rule_numeric_correct,0
+R_9zSm0Rtpydxh50L,bcrt_q2,BCRT,200,0.0,0.0,rule_other,0
+R_9zSm0Rtpydxh50L,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9zSm0Rtpydxh50L,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_9zSm0Rtpydxh50L,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9zSm0Rtpydxh50L,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9ewvQqcISGg20dM,crt2_q1,CRT2,in second place,0.0,0.0,rule_other,1
+R_9ewvQqcISGg20dM,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9ewvQqcISGg20dM,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_9ewvQqcISGg20dM,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_9ewvQqcISGg20dM,bcrt_q1,BCRT,half hour,0.0,0.0,rule_other,1
+R_9ewvQqcISGg20dM,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9ewvQqcISGg20dM,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_9ewvQqcISGg20dM,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,1
+R_9ewvQqcISGg20dM,bcrt_q5,BCRT,son,1.0,2.0,rule_exact_correct,1
+R_9ewvQqcISGg20dM,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,1
+R_9kTCAUflKkIxCMx,crt2_q1,CRT2,1st,0.0,1.0,rule_exact_intuitive,0
+R_9kTCAUflKkIxCMx,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9kTCAUflKkIxCMx,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9kTCAUflKkIxCMx,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_9kTCAUflKkIxCMx,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_9kTCAUflKkIxCMx,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9kTCAUflKkIxCMx,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9kTCAUflKkIxCMx,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_9kTCAUflKkIxCMx,bcrt_q5,BCRT,its impossible since the man's father cannot be the fathers son without them being a siblings,0.0,0.0,rule_other,0
+R_9kTCAUflKkIxCMx,bcrt_q6,BCRT,"yes because if anne is unmarried jack is looking at an unmarried person but if anne is married, she is looking at an unmarried person",1.0,2.0,rule_phrase_correct,0
+R_4hz1oupZI1VLOKO,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4hz1oupZI1VLOKO,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_4hz1oupZI1VLOKO,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4hz1oupZI1VLOKO,crt2_q4,CRT2,none because a hole is hollow?,1.0,2.0,rule_phrase_correct,0
+R_4hz1oupZI1VLOKO,bcrt_q1,BCRT,an hour and a half,0.0,0.0,rule_other,1
+R_4hz1oupZI1VLOKO,bcrt_q2,BCRT,$500,0.0,0.0,rule_other,0
+R_4hz1oupZI1VLOKO,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_4hz1oupZI1VLOKO,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4hz1oupZI1VLOKO,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,0
+R_4hz1oupZI1VLOKO,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_40TVJRQSynAT7Gu,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_40TVJRQSynAT7Gu,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_40TVJRQSynAT7Gu,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_40TVJRQSynAT7Gu,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_40TVJRQSynAT7Gu,bcrt_q1,BCRT,an hour and a half,0.0,0.0,rule_other,0
+R_40TVJRQSynAT7Gu,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_40TVJRQSynAT7Gu,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_40TVJRQSynAT7Gu,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_40TVJRQSynAT7Gu,bcrt_q5,BCRT,his own portrait,0.0,0.0,rule_other,0
+R_40TVJRQSynAT7Gu,bcrt_q6,BCRT,we don't know because anne's marital status isn't given and neither is any information about who george is looking at.,0.0,0.0,rule_other,0
+R_97CH322YiXUy0cp,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,0
+R_97CH322YiXUy0cp,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_97CH322YiXUy0cp,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_97CH322YiXUy0cp,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,0
+R_97CH322YiXUy0cp,bcrt_q1,BCRT,0,0.0,0.0,rule_other,0
+R_97CH322YiXUy0cp,bcrt_q2,BCRT,1200,0.0,0.0,rule_other,0
+R_97CH322YiXUy0cp,bcrt_q3,BCRT,5,0.0,0.0,rule_other,0
+R_97CH322YiXUy0cp,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,0
+R_97CH322YiXUy0cp,bcrt_q5,BCRT,his,0.0,0.0,rule_other,0
+R_97CH322YiXUy0cp,bcrt_q6,BCRT,unmarried,0.0,0.0,rule_other,0
+R_9ADm21vJo7nh1VT,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_9ADm21vJo7nh1VT,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9ADm21vJo7nh1VT,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9ADm21vJo7nh1VT,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9ADm21vJo7nh1VT,bcrt_q1,BCRT,1.5 hrs,0.0,0.0,rule_other,0
+R_9ADm21vJo7nh1VT,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,1
+R_9ADm21vJo7nh1VT,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9ADm21vJo7nh1VT,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,0
+R_9ADm21vJo7nh1VT,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,1
+R_9ADm21vJo7nh1VT,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4iOlrUy7IyRo5DX,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_4iOlrUy7IyRo5DX,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4iOlrUy7IyRo5DX,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4iOlrUy7IyRo5DX,crt2_q4,CRT2,nan,0.0,0.0,rule_other,0
+R_4iOlrUy7IyRo5DX,bcrt_q1,BCRT,an hour and a half,0.0,0.0,rule_other,0
+R_4iOlrUy7IyRo5DX,bcrt_q2,BCRT,$500,0.0,0.0,rule_other,0
+R_4iOlrUy7IyRo5DX,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4iOlrUy7IyRo5DX,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4iOlrUy7IyRo5DX,bcrt_q5,BCRT,his own portrait,0.0,0.0,rule_other,0
+R_4iOlrUy7IyRo5DX,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4aUK0rI5Q5xMv99,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4aUK0rI5Q5xMv99,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4aUK0rI5Q5xMv99,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4aUK0rI5Q5xMv99,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_4aUK0rI5Q5xMv99,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_4aUK0rI5Q5xMv99,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4aUK0rI5Q5xMv99,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_4aUK0rI5Q5xMv99,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_4aUK0rI5Q5xMv99,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4aUK0rI5Q5xMv99,bcrt_q6,BCRT,don't know,0.0,0.0,rule_other,0
+R_9lztR3uL6egBey2,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_9lztR3uL6egBey2,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9lztR3uL6egBey2,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_9lztR3uL6egBey2,crt2_q4,CRT2,no idea,0.0,0.0,rule_other,0
+R_9lztR3uL6egBey2,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_9lztR3uL6egBey2,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9lztR3uL6egBey2,bcrt_q3,BCRT,8 days tops,1.0,2.0,rule_numeric_correct,1
+R_9lztR3uL6egBey2,bcrt_q4,BCRT,the rungs wont be covered ever,0.0,0.0,rule_other,0
+R_9lztR3uL6egBey2,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9lztR3uL6egBey2,bcrt_q6,BCRT,in either case a married person is looking at an unmarried person,1.0,2.0,rule_phrase_correct,0
+R_4Eheu30i18UxWo5,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4Eheu30i18UxWo5,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4Eheu30i18UxWo5,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4Eheu30i18UxWo5,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,0
+R_4Eheu30i18UxWo5,bcrt_q1,BCRT,30mins,0.0,0.0,rule_other,0
+R_4Eheu30i18UxWo5,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_4Eheu30i18UxWo5,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_4Eheu30i18UxWo5,bcrt_q4,BCRT,2 hrs 23ish mins,0.0,0.0,rule_other,0
+R_4Eheu30i18UxWo5,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4Eheu30i18UxWo5,bcrt_q6,BCRT,don't know if anne is married or not,0.0,0.0,rule_other,0
+R_97VvwanVzOGTy6T,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_97VvwanVzOGTy6T,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_97VvwanVzOGTy6T,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_97VvwanVzOGTy6T,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_97VvwanVzOGTy6T,bcrt_q1,BCRT,1hr and half,1.0,2.0,rule_numeric_correct,1
+R_97VvwanVzOGTy6T,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_97VvwanVzOGTy6T,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,1
+R_97VvwanVzOGTy6T,bcrt_q4,BCRT,2hrs 40mins,0.0,0.0,rule_other,1
+R_97VvwanVzOGTy6T,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,1
+R_97VvwanVzOGTy6T,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,1
+R_9UflZdQoAT9DJQ4,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,1
+R_9UflZdQoAT9DJQ4,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9UflZdQoAT9DJQ4,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_9UflZdQoAT9DJQ4,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,1
+R_9UflZdQoAT9DJQ4,bcrt_q1,BCRT,1.5h,0.0,0.0,rule_other,1
+R_9UflZdQoAT9DJQ4,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9UflZdQoAT9DJQ4,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,1
+R_9UflZdQoAT9DJQ4,bcrt_q4,BCRT,45,0.0,0.0,rule_other,1
+R_9UflZdQoAT9DJQ4,bcrt_q5,BCRT,stepbrother,0.0,0.0,rule_other,1
+R_9UflZdQoAT9DJQ4,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,1
+R_4TPMkluCQ2DzeWR,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,0
+R_4TPMkluCQ2DzeWR,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4TPMkluCQ2DzeWR,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4TPMkluCQ2DzeWR,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4TPMkluCQ2DzeWR,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_4TPMkluCQ2DzeWR,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4TPMkluCQ2DzeWR,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4TPMkluCQ2DzeWR,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4TPMkluCQ2DzeWR,bcrt_q5,BCRT,his child,0.0,0.0,rule_other,0
+R_4TPMkluCQ2DzeWR,bcrt_q6,BCRT,can't answer,0.0,0.0,rule_other,0
+R_4jDrMj7MSEYhv6g,crt2_q1,CRT2,the second,0.0,0.0,rule_other,1
+R_4jDrMj7MSEYhv6g,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4jDrMj7MSEYhv6g,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4jDrMj7MSEYhv6g,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4jDrMj7MSEYhv6g,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,1
+R_4jDrMj7MSEYhv6g,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4jDrMj7MSEYhv6g,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,1
+R_4jDrMj7MSEYhv6g,bcrt_q4,BCRT,never overwhelm 3 rungs,1.0,2.0,rule_phrase_correct,1
+R_4jDrMj7MSEYhv6g,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_4jDrMj7MSEYhv6g,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9qkbBEEu4LBm4Vh,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_9qkbBEEu4LBm4Vh,crt2_q2,CRT2,8 sheep,1.0,2.0,rule_exact_correct,1
+R_9qkbBEEu4LBm4Vh,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9qkbBEEu4LBm4Vh,crt2_q4,CRT2,0 cubic feet of dirt,0.0,0.0,rule_other,0
+R_9qkbBEEu4LBm4Vh,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_9qkbBEEu4LBm4Vh,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_9qkbBEEu4LBm4Vh,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_9qkbBEEu4LBm4Vh,bcrt_q4,BCRT,"the water will never cover more rungs, 0 additional rungs will be covered",1.0,2.0,rule_phrase_correct,0
+R_9qkbBEEu4LBm4Vh,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9qkbBEEu4LBm4Vh,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9LcntUWi1nBzmM6,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_9LcntUWi1nBzmM6,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9LcntUWi1nBzmM6,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9LcntUWi1nBzmM6,crt2_q4,CRT2,27 cubic feet,0.0,0.0,rule_other,0
+R_9LcntUWi1nBzmM6,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9LcntUWi1nBzmM6,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9LcntUWi1nBzmM6,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9LcntUWi1nBzmM6,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9LcntUWi1nBzmM6,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9LcntUWi1nBzmM6,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_49uZMYwK4FPR2Jv,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_49uZMYwK4FPR2Jv,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_49uZMYwK4FPR2Jv,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_49uZMYwK4FPR2Jv,crt2_q4,CRT2,27cm^3,0.0,0.0,rule_other,1
+R_49uZMYwK4FPR2Jv,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_49uZMYwK4FPR2Jv,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_49uZMYwK4FPR2Jv,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_49uZMYwK4FPR2Jv,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_49uZMYwK4FPR2Jv,bcrt_q5,BCRT,the man's son,1.0,2.0,rule_exact_correct,0
+R_49uZMYwK4FPR2Jv,bcrt_q6,BCRT,i don't know !,0.0,0.0,rule_other,0
+R_4s5dRRD2FdMG1BY,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_4s5dRRD2FdMG1BY,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4s5dRRD2FdMG1BY,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4s5dRRD2FdMG1BY,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4s5dRRD2FdMG1BY,bcrt_q1,BCRT,90 minutes,0.0,1.0,rule_exact_intuitive,0
+R_4s5dRRD2FdMG1BY,bcrt_q2,BCRT,$300,0.0,1.0,rule_exact_intuitive,0
+R_4s5dRRD2FdMG1BY,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4s5dRRD2FdMG1BY,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4s5dRRD2FdMG1BY,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,0
+R_4s5dRRD2FdMG1BY,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9qYtBzsH2T1JLt7,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_9qYtBzsH2T1JLt7,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9qYtBzsH2T1JLt7,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_9qYtBzsH2T1JLt7,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9qYtBzsH2T1JLt7,bcrt_q1,BCRT,30mins,0.0,0.0,rule_other,0
+R_9qYtBzsH2T1JLt7,bcrt_q2,BCRT,500,0.0,0.0,rule_other,0
+R_9qYtBzsH2T1JLt7,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9qYtBzsH2T1JLt7,bcrt_q4,BCRT,5,0.0,0.0,rule_other,0
+R_9qYtBzsH2T1JLt7,bcrt_q5,BCRT,son,1.0,2.0,rule_exact_correct,0
+R_9qYtBzsH2T1JLt7,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_42MC2sq8D1AMHgC,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,0
+R_42MC2sq8D1AMHgC,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_42MC2sq8D1AMHgC,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_42MC2sq8D1AMHgC,crt2_q4,CRT2,27',0.0,0.0,rule_other,0
+R_42MC2sq8D1AMHgC,bcrt_q1,BCRT,90 minutes,0.0,1.0,rule_exact_intuitive,0
+R_42MC2sq8D1AMHgC,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_42MC2sq8D1AMHgC,bcrt_q3,BCRT,7,0.0,0.0,rule_other,1
+R_42MC2sq8D1AMHgC,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_42MC2sq8D1AMHgC,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_42MC2sq8D1AMHgC,bcrt_q6,BCRT,not enough information,0.0,0.0,rule_other,0
+R_9H2EgGSHs88CCFX,crt2_q1,CRT2,1st place,0.0,0.0,rule_other,0
+R_9H2EgGSHs88CCFX,crt2_q2,CRT2,7 sheep,0.0,1.0,rule_exact_intuitive,0
+R_9H2EgGSHs88CCFX,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_9H2EgGSHs88CCFX,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9H2EgGSHs88CCFX,bcrt_q1,BCRT,1 hour 30 mins,1.0,2.0,rule_numeric_correct,0
+R_9H2EgGSHs88CCFX,bcrt_q2,BCRT,$200,0.0,0.0,rule_other,0
+R_9H2EgGSHs88CCFX,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9H2EgGSHs88CCFX,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9H2EgGSHs88CCFX,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9H2EgGSHs88CCFX,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9ckoGSppiMihfQB,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9ckoGSppiMihfQB,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9ckoGSppiMihfQB,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9ckoGSppiMihfQB,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,0
+R_9ckoGSppiMihfQB,bcrt_q1,BCRT,12,0.0,0.0,rule_other,0
+R_9ckoGSppiMihfQB,bcrt_q2,BCRT,200,0.0,0.0,rule_other,0
+R_9ckoGSppiMihfQB,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9ckoGSppiMihfQB,bcrt_q4,BCRT,60,0.0,0.0,rule_other,0
+R_9ckoGSppiMihfQB,bcrt_q5,BCRT,his,0.0,0.0,rule_other,0
+R_9ckoGSppiMihfQB,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_9gKWvGKZjF95Y4x,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_9gKWvGKZjF95Y4x,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9gKWvGKZjF95Y4x,crt2_q3,CRT2,june?,0.0,0.0,rule_other,0
+R_9gKWvGKZjF95Y4x,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,0
+R_9gKWvGKZjF95Y4x,bcrt_q1,BCRT,an hour and a half,0.0,0.0,rule_other,0
+R_9gKWvGKZjF95Y4x,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9gKWvGKZjF95Y4x,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9gKWvGKZjF95Y4x,bcrt_q4,BCRT,idk,0.0,0.0,rule_other,0
+R_9gKWvGKZjF95Y4x,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9gKWvGKZjF95Y4x,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4DIOFgBmrAWKKl6,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,1
+R_4DIOFgBmrAWKKl6,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4DIOFgBmrAWKKl6,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_4DIOFgBmrAWKKl6,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4DIOFgBmrAWKKl6,bcrt_q1,BCRT,6 hours,0.0,0.0,rule_other,1
+R_4DIOFgBmrAWKKl6,bcrt_q2,BCRT,500,0.0,0.0,rule_other,0
+R_4DIOFgBmrAWKKl6,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_4DIOFgBmrAWKKl6,bcrt_q4,BCRT,2 hrs,0.0,0.0,rule_other,0
+R_4DIOFgBmrAWKKl6,bcrt_q5,BCRT,son,1.0,2.0,rule_exact_correct,1
+R_4DIOFgBmrAWKKl6,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_47njEZ9mGdQQAmJ,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_47njEZ9mGdQQAmJ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_47njEZ9mGdQQAmJ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_47njEZ9mGdQQAmJ,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_47njEZ9mGdQQAmJ,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_47njEZ9mGdQQAmJ,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_47njEZ9mGdQQAmJ,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_47njEZ9mGdQQAmJ,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_47njEZ9mGdQQAmJ,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_47njEZ9mGdQQAmJ,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4WIL6fzUqy0uy2G,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,1
+R_4WIL6fzUqy0uy2G,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4WIL6fzUqy0uy2G,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4WIL6fzUqy0uy2G,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_4WIL6fzUqy0uy2G,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_4WIL6fzUqy0uy2G,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4WIL6fzUqy0uy2G,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_4WIL6fzUqy0uy2G,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,0
+R_4WIL6fzUqy0uy2G,bcrt_q5,BCRT,the man own son,0.0,0.0,rule_other,0
+R_4WIL6fzUqy0uy2G,bcrt_q6,BCRT,ye,0.0,0.0,rule_other,0
+R_4SiwDEt39qYpx6u,crt2_q1,CRT2,"first, assuming you're going the right way",0.0,0.0,rule_other,0
+R_4SiwDEt39qYpx6u,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4SiwDEt39qYpx6u,crt2_q3,CRT2,"emily, probably. (e.g. it's possible that ""emily"" is a boy, or some other unusual situation.)",0.0,0.0,rule_other,1
+R_4SiwDEt39qYpx6u,crt2_q4,CRT2,"0 (nice trick question, almost got me)",0.0,0.0,rule_other,0
+R_4SiwDEt39qYpx6u,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_4SiwDEt39qYpx6u,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,0
+R_4SiwDEt39qYpx6u,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_4SiwDEt39qYpx6u,bcrt_q4,BCRT,just over 2hr40min,0.0,0.0,rule_other,0
+R_4SiwDEt39qYpx6u,bcrt_q5,BCRT,his son's,0.0,0.0,rule_other,0
+R_4SiwDEt39qYpx6u,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9DqIf4wJEjv36cP,crt2_q1,CRT2,2nd place,0.0,0.0,rule_other,1
+R_9DqIf4wJEjv36cP,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9DqIf4wJEjv36cP,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_9DqIf4wJEjv36cP,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9DqIf4wJEjv36cP,bcrt_q1,BCRT,1 hour 30 minutes,1.0,2.0,rule_numeric_correct,0
+R_9DqIf4wJEjv36cP,bcrt_q2,BCRT,300,0.0,1.0,rule_exact_intuitive,1
+R_9DqIf4wJEjv36cP,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9DqIf4wJEjv36cP,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_9DqIf4wJEjv36cP,bcrt_q5,BCRT,the man's son,1.0,2.0,rule_exact_correct,0
+R_9DqIf4wJEjv36cP,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9dugL9haczQVFjn,crt2_q1,CRT2,1st,0.0,1.0,rule_exact_intuitive,0
+R_9dugL9haczQVFjn,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9dugL9haczQVFjn,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9dugL9haczQVFjn,crt2_q4,CRT2,12,0.0,1.0,rule_regex_intuitive,0
+R_9dugL9haczQVFjn,bcrt_q1,BCRT,1 hour and 30 minutes,1.0,2.0,rule_numeric_correct,0
+R_9dugL9haczQVFjn,bcrt_q2,BCRT,2300,0.0,0.0,rule_other,0
+R_9dugL9haczQVFjn,bcrt_q3,BCRT,5,0.0,0.0,rule_other,0
+R_9dugL9haczQVFjn,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9dugL9haczQVFjn,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,0
+R_9dugL9haczQVFjn,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9h5u12dwC5eG2Z6,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,0
+R_9h5u12dwC5eG2Z6,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9h5u12dwC5eG2Z6,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9h5u12dwC5eG2Z6,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,0
+R_9h5u12dwC5eG2Z6,bcrt_q1,BCRT,1.5h,0.0,0.0,rule_other,0
+R_9h5u12dwC5eG2Z6,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9h5u12dwC5eG2Z6,bcrt_q3,BCRT,30,0.0,0.0,rule_other,0
+R_9h5u12dwC5eG2Z6,bcrt_q4,BCRT,never.,1.0,2.0,rule_fuzzy_correct,0
+R_9h5u12dwC5eG2Z6,bcrt_q5,BCRT,father,0.0,0.0,rule_other,0
+R_9h5u12dwC5eG2Z6,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9GDETN8lfI96G4x,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_9GDETN8lfI96G4x,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_9GDETN8lfI96G4x,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,1
+R_9GDETN8lfI96G4x,crt2_q4,CRT2,9,0.0,1.0,rule_regex_intuitive,1
+R_9GDETN8lfI96G4x,bcrt_q1,BCRT,1.5h,0.0,0.0,rule_other,1
+R_9GDETN8lfI96G4x,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_9GDETN8lfI96G4x,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,1
+R_9GDETN8lfI96G4x,bcrt_q4,BCRT,2h40mins,0.0,0.0,rule_other,1
+R_9GDETN8lfI96G4x,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_9GDETN8lfI96G4x,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_9PvWDImxOitPjFi,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9PvWDImxOitPjFi,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_9PvWDImxOitPjFi,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9PvWDImxOitPjFi,crt2_q4,CRT2,27',0.0,0.0,rule_other,0
+R_9PvWDImxOitPjFi,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_9PvWDImxOitPjFi,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9PvWDImxOitPjFi,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9PvWDImxOitPjFi,bcrt_q4,BCRT,5,0.0,0.0,rule_other,0
+R_9PvWDImxOitPjFi,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9PvWDImxOitPjFi,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_4lSNZLsjvNgORxZ,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,0
+R_4lSNZLsjvNgORxZ,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4lSNZLsjvNgORxZ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_4lSNZLsjvNgORxZ,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4lSNZLsjvNgORxZ,bcrt_q1,BCRT,90 min,0.0,0.0,rule_other,0
+R_4lSNZLsjvNgORxZ,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4lSNZLsjvNgORxZ,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_4lSNZLsjvNgORxZ,bcrt_q4,BCRT,4hrs,0.0,0.0,rule_other,0
+R_4lSNZLsjvNgORxZ,bcrt_q5,BCRT,his own,0.0,0.0,rule_other,0
+R_4lSNZLsjvNgORxZ,bcrt_q6,BCRT,cannot be sure of anne's martial status,0.0,0.0,rule_other,0
+R_4s0LyD7vCcmzXcA,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4s0LyD7vCcmzXcA,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4s0LyD7vCcmzXcA,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4s0LyD7vCcmzXcA,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4s0LyD7vCcmzXcA,bcrt_q1,BCRT,1.5 hours,0.0,1.0,rule_exact_intuitive,0
+R_4s0LyD7vCcmzXcA,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4s0LyD7vCcmzXcA,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,1
+R_4s0LyD7vCcmzXcA,bcrt_q4,BCRT,3 hours,0.0,0.0,rule_other,1
+R_4s0LyD7vCcmzXcA,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,1
+R_4s0LyD7vCcmzXcA,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_4Yh9KMaB7T35VHH,crt2_q1,CRT2,first,0.0,1.0,rule_exact_intuitive,0
+R_4Yh9KMaB7T35VHH,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4Yh9KMaB7T35VHH,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4Yh9KMaB7T35VHH,crt2_q4,CRT2,3,0.0,1.0,rule_regex_intuitive,0
+R_4Yh9KMaB7T35VHH,bcrt_q1,BCRT,half an hour,0.0,0.0,rule_other,0
+R_4Yh9KMaB7T35VHH,bcrt_q2,BCRT,200,0.0,0.0,rule_other,0
+R_4Yh9KMaB7T35VHH,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4Yh9KMaB7T35VHH,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,1
+R_4Yh9KMaB7T35VHH,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_4Yh9KMaB7T35VHH,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_4PRyBwd0Rj1hXAv,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,1
+R_4PRyBwd0Rj1hXAv,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,1
+R_4PRyBwd0Rj1hXAv,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4PRyBwd0Rj1hXAv,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,1
+R_4PRyBwd0Rj1hXAv,bcrt_q1,BCRT,1hr half,1.0,2.0,rule_numeric_correct,1
+R_4PRyBwd0Rj1hXAv,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4PRyBwd0Rj1hXAv,bcrt_q3,BCRT,11,0.0,0.0,rule_other,1
+R_4PRyBwd0Rj1hXAv,bcrt_q4,BCRT,2,0.0,0.0,rule_other,1
+R_4PRyBwd0Rj1hXAv,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,1
+R_4PRyBwd0Rj1hXAv,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,1
+R_4oYj8hpyfzkL4qd,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_4oYj8hpyfzkL4qd,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,1
+R_4oYj8hpyfzkL4qd,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4oYj8hpyfzkL4qd,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_4oYj8hpyfzkL4qd,bcrt_q1,BCRT,"1.,5 hrs",1.0,2.0,rule_numeric_correct,0
+R_4oYj8hpyfzkL4qd,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4oYj8hpyfzkL4qd,bcrt_q3,BCRT,12,0.0,0.0,rule_other,0
+R_4oYj8hpyfzkL4qd,bcrt_q4,BCRT,they will always be covered,0.0,0.0,rule_other,0
+R_4oYj8hpyfzkL4qd,bcrt_q5,BCRT,his,0.0,0.0,rule_other,0
+R_4oYj8hpyfzkL4qd,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9ysX3HF7qQg4tjz,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,0
+R_9ysX3HF7qQg4tjz,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9ysX3HF7qQg4tjz,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9ysX3HF7qQg4tjz,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_9ysX3HF7qQg4tjz,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_9ysX3HF7qQg4tjz,bcrt_q2,BCRT,400 dollars,1.0,2.0,rule_exact_correct,0
+R_9ysX3HF7qQg4tjz,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_9ysX3HF7qQg4tjz,bcrt_q4,BCRT,never,1.0,2.0,rule_exact_correct,0
+R_9ysX3HF7qQg4tjz,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_9ysX3HF7qQg4tjz,bcrt_q6,BCRT,a married person is looking at an unmarried person.,1.0,2.0,rule_phrase_correct,0
+R_4EGgUEbaGhlE4RE,crt2_q1,CRT2,2,1.0,2.0,rule_exact_correct,1
+R_4EGgUEbaGhlE4RE,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4EGgUEbaGhlE4RE,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4EGgUEbaGhlE4RE,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_4EGgUEbaGhlE4RE,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_4EGgUEbaGhlE4RE,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4EGgUEbaGhlE4RE,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4EGgUEbaGhlE4RE,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_4EGgUEbaGhlE4RE,bcrt_q5,BCRT,his own son,0.0,0.0,rule_other,0
+R_4EGgUEbaGhlE4RE,bcrt_q6,BCRT,yes,1.0,2.0,rule_exact_correct,0
+R_9cSz6xO81NhYah9,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_9cSz6xO81NhYah9,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9cSz6xO81NhYah9,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_9cSz6xO81NhYah9,crt2_q4,CRT2,9 cubic feet,0.0,0.0,rule_other,0
+R_9cSz6xO81NhYah9,bcrt_q1,BCRT,1 and a half hr,1.0,2.0,rule_numeric_correct,0
+R_9cSz6xO81NhYah9,bcrt_q2,BCRT,$400,1.0,2.0,rule_exact_correct,1
+R_9cSz6xO81NhYah9,bcrt_q3,BCRT,10 days,0.0,0.0,rule_other,0
+R_9cSz6xO81NhYah9,bcrt_q4,BCRT,4 hours,0.0,1.0,rule_exact_intuitive,0
+R_9cSz6xO81NhYah9,bcrt_q5,BCRT,himself,0.0,1.0,rule_exact_intuitive,0
+R_9cSz6xO81NhYah9,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_4mWWreCcbAYAgcr,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,1
+R_4mWWreCcbAYAgcr,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4mWWreCcbAYAgcr,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4mWWreCcbAYAgcr,crt2_q4,CRT2,none?,1.0,2.0,rule_phrase_correct,0
+R_4mWWreCcbAYAgcr,bcrt_q1,BCRT,1.5 hr,0.0,0.0,rule_other,0
+R_4mWWreCcbAYAgcr,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,1
+R_4mWWreCcbAYAgcr,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_4mWWreCcbAYAgcr,bcrt_q4,BCRT,4 hr,0.0,0.0,rule_other,0
+R_4mWWreCcbAYAgcr,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_4mWWreCcbAYAgcr,bcrt_q6,BCRT,unsure as anne's martial status is not stated,0.0,0.0,rule_other,0
+R_9pZ4VmJn5WPju4M,crt2_q1,CRT2,1,0.0,1.0,rule_exact_intuitive,0
+R_9pZ4VmJn5WPju4M,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_9pZ4VmJn5WPju4M,crt2_q3,CRT2,june,0.0,1.0,rule_exact_intuitive,0
+R_9pZ4VmJn5WPju4M,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9pZ4VmJn5WPju4M,bcrt_q1,BCRT,1 hour 30 minutes,1.0,2.0,rule_numeric_correct,0
+R_9pZ4VmJn5WPju4M,bcrt_q2,BCRT,200,0.0,0.0,rule_other,0
+R_9pZ4VmJn5WPju4M,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9pZ4VmJn5WPju4M,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_9pZ4VmJn5WPju4M,bcrt_q5,BCRT,him,0.0,1.0,rule_exact_intuitive,0
+R_9pZ4VmJn5WPju4M,bcrt_q6,BCRT,no,0.0,1.0,rule_exact_intuitive,0
+R_97APSd1kYg20UmZ,crt2_q1,CRT2,second,1.0,2.0,rule_exact_correct,1
+R_97APSd1kYg20UmZ,crt2_q2,CRT2,7,0.0,1.0,rule_exact_intuitive,0
+R_97APSd1kYg20UmZ,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_97APSd1kYg20UmZ,crt2_q4,CRT2,0,1.0,2.0,rule_exact_correct,0
+R_97APSd1kYg20UmZ,bcrt_q1,BCRT,1 hour,1.0,2.0,rule_exact_correct,0
+R_97APSd1kYg20UmZ,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_97APSd1kYg20UmZ,bcrt_q3,BCRT,8,1.0,2.0,rule_exact_correct,0
+R_97APSd1kYg20UmZ,bcrt_q4,BCRT,never ship would also rise,1.0,2.0,rule_phrase_correct,0
+R_97APSd1kYg20UmZ,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,0
+R_97APSd1kYg20UmZ,bcrt_q6,BCRT,yes in the case anne is married or not,1.0,2.0,rule_phrase_correct,0
+R_4hpIVUPRHVc2sCt,crt2_q1,CRT2,second place,1.0,2.0,rule_exact_correct,1
+R_4hpIVUPRHVc2sCt,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_4hpIVUPRHVc2sCt,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,1
+R_4hpIVUPRHVc2sCt,crt2_q4,CRT2,"none, it is a hole",1.0,2.0,rule_phrase_correct,0
+R_4hpIVUPRHVc2sCt,bcrt_q1,BCRT,90 minutes,0.0,1.0,rule_exact_intuitive,0
+R_4hpIVUPRHVc2sCt,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_4hpIVUPRHVc2sCt,bcrt_q3,BCRT,8 days,1.0,2.0,rule_numeric_correct,0
+R_4hpIVUPRHVc2sCt,bcrt_q4,BCRT,2 hours and 40 minutes,0.0,1.0,rule_fuzzy_intuitive,0
+R_4hpIVUPRHVc2sCt,bcrt_q5,BCRT,his son,1.0,2.0,rule_exact_correct,1
+R_4hpIVUPRHVc2sCt,bcrt_q6,BCRT,"unsure, as we do not know anne's marital status",0.0,0.0,rule_other,0
+R_9fA6B5uPjcqDdWF,crt2_q1,CRT2,2nd,1.0,2.0,rule_exact_correct,0
+R_9fA6B5uPjcqDdWF,crt2_q2,CRT2,8,1.0,2.0,rule_exact_correct,0
+R_9fA6B5uPjcqDdWF,crt2_q3,CRT2,emily,1.0,2.0,rule_exact_correct,0
+R_9fA6B5uPjcqDdWF,crt2_q4,CRT2,27,0.0,1.0,rule_regex_intuitive,0
+R_9fA6B5uPjcqDdWF,bcrt_q1,BCRT,"if i drink it from the moment he gave it to me, then 1 hour",1.0,2.0,rule_numeric_correct,0
+R_9fA6B5uPjcqDdWF,bcrt_q2,BCRT,400,1.0,2.0,rule_exact_correct,0
+R_9fA6B5uPjcqDdWF,bcrt_q3,BCRT,10,0.0,1.0,rule_exact_intuitive,0
+R_9fA6B5uPjcqDdWF,bcrt_q4,BCRT,4,0.0,0.0,rule_other,0
+R_9fA6B5uPjcqDdWF,bcrt_q5,BCRT,"his son,",1.0,2.0,rule_fuzzy_correct,0
+R_9fA6B5uPjcqDdWF,bcrt_q6,BCRT,not enough information to say,0.0,0.0,rule_other,0

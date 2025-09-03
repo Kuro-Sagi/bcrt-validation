@@ -1,0 +1,218 @@
+paths:
+  raw: data/raw
+  interim: data/interim
+  processed: data/processed
+  reports: reports
+input:
+  qualtrics_csv: Understanding Styles of Thinking - (Online) v2.0_28 August 2025_15.43.csv
+analysis:
+  naive_only_cutoff_seen_count: 0
+  liwc_min_words: 100
+  difficulty_bounds:
+  - 0.2
+  - 0.8
+  min_itemrest_r: 0.2
+  min_intuitive_pct: 0.6
+  exposure_penalty_thresholds:
+  - 0.1
+  - 0.2
+  bootstrap_resamples: 1000
+  random_seed: 42
+columns:
+  pid_candidates:
+  - ResponseId
+  - Unique ID
+  - id
+  - ParticipantID
+  writing_q1: WritingTask_Q1
+  writing_q2: WritingTask_Q2
+  crt2_items:
+  - crt2_q1
+  - crt2_q2
+  - crt2_q3
+  - crt2_q4
+  bcrt_items:
+  - bcrt_q1
+  - bcrt_q2
+  - bcrt_q3
+  - bcrt_q4
+  - bcrt_q5
+  - bcrt_q6
+  familiarity:
+  - Experience Check_1
+  - Experience Check_2
+  - Experience Check_3
+  - Experience Check_4
+  - Experience Check_5
+  - Experience Check_6
+  - Experience Check_7
+  - Experience Check_8
+  - Experience Check_9
+  - Experience Check_10
+  nfc_prefix: nfc_
+familiarity_map:
+  Experience Check_1: crt2_q1
+  Experience Check_2: crt2_q2
+  Experience Check_3: crt2_q3
+  Experience Check_4: crt2_q4
+  Experience Check_5: bcrt_q1
+  Experience Check_6: bcrt_q2
+  Experience Check_7: bcrt_q3
+  Experience Check_8: bcrt_q4
+  Experience Check_9: bcrt_q5
+  Experience Check_10: bcrt_q6
+scoring:
+  crt2_q1:
+    correct:
+    - second
+    - '2'
+    - 2nd
+    - second place
+    - the second place
+    - You are now in second place
+    - If I was running a race and I was passing the person in second place then I would be assuming the position they were just in and thus be second place, if I then went on to pass the person in front of me I would assume first place.
+    intuitive:
+    - first
+    - '1'
+    - 1st
+    - first place
+    - in first place
+  crt2_q2:
+    correct:
+    - '8'
+    - eight
+    - 8 sheep
+    - 8 sheep remain alive
+    intuitive:
+    - '7'
+    - 7 sheep
+    - seven
+  crt2_q3:
+    correct:
+    - emily
+    intuitive:
+    - june
+    - april
+    - may
+  crt2_q4:
+    correct:
+    - '0'
+    - zero
+    - none
+    - no dirt
+    - '0.0'
+    intuitive_pattern: ^-?\d+(\.\d+)?$
+    correct_phrases:
+    - no dirt
+    - there is no dirt
+    - none
+  bcrt_q1:
+    correct:
+    - '1'
+    - 1 hour
+    - 60 minutes
+    - one hour
+    - 1hr
+    - 1 hr
+    - 60 mins
+    intuitive:
+    - '1.5'
+    - 1.5 hours
+    - 90 minutes
+    - one and a half
+    - 1 1/2 hours
+    - '90'
+    correct_number: 1
+  bcrt_q2:
+    correct:
+    - '400'
+    - $400
+    - 400 dollars
+    intuitive:
+    - '300'
+    - $300
+    - 300 dollars
+    correct_number: 400
+  bcrt_q3:
+    correct:
+    - '8'
+    - eight
+    intuitive:
+    - '10'
+    - ten
+    - '9'
+    - nine
+    correct_number: 8
+  bcrt_q4:
+    correct:
+    - never
+    - won't
+    - will not
+    - doesn't
+    - no change
+    - never covered
+    - the ladder rises with the ship
+    - goes up with the tide
+    intuitive:
+    - '4 hours' # if thinking 3 rungs is 60 cm. 
+    - '240 minutes'
+    - 2.667 hours # if thinking 2 rungs is 40 cm.
+    - 2 hours 40 minutes
+    - 2 and 2/3
+    - approx 2hrs, 40 min
+    
+    correct_phrases:
+    - ladder rises
+    - ladder goes up with ship
+    - rises with ship
+    - goes up with the tide
+    - never
+    - never covered
+  bcrt_q5:
+    correct:
+    - his son
+    - the son of the man
+    - son
+    - the man's son
+    intuitive:
+    - himself
+    - him
+    - the man himself
+    - that man
+  bcrt_q6:
+    correct:
+    - 'yes'
+    - yeah
+    - yep
+    intuitive:
+    - 'no'
+    - can't tell
+    - cannot tell
+    - unsure
+    correct_phrases:
+    - 'yes'
+    - a married person is looking at an unmarried person
+  bcrt_q7: # technically not relevant, we didn't test these. 
+    correct:
+    - 5 minutes
+    - '5'
+    - five minutes
+    - 5 mins
+    - 5 min
+    - five mins
+    intuitive:
+    - 20 minutes
+    - '20'
+    - twenty minutes
+    - twenty mins
+    - twenty min
+    correct_number: 5
+  bcrt_q8:
+    correct_phrases:
+    - inside
+    - inside the building
+    - inside the windows
+    intuitive:
+    - landed on something soft
+    - fell on a cushion
+    - parachute
