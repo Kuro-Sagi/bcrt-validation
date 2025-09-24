@@ -1,0 +1,7 @@
+dataset,x,y,r,n
+full,crt2_total,nfc_total,0.127565931605276,240
+full,bcrt_core3_total,nfc_total,-0.042561465889856036,240
+full,bcrt_core4_total,nfc_total,-0.05132212573472063,240
+naive,crt2_total,nfc_total,0.24340314779171085,52
+naive,bcrt_core3_total,nfc_total,-0.10494621138101008,52
+naive,bcrt_core4_total,nfc_total,-0.06459888114086901,52

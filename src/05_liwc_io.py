@@ -1,138 +1,153 @@
+# src/05_liwc_io.py
+# Export writing texts for LIWC and merge LIWC CSVs back into the analysis dataset.
 
-import os, re, yaml, pandas as pd, numpy as np
+import argparse, re, yaml, pandas as pd, numpy as np
 from pathlib import Path
-from sklearn.linear_model import LinearRegression
 
 cfg = yaml.safe_load(open("config/config.yaml"))
-processed_dir = Path(cfg["paths"]["processed"])
-interim_dir = Path(cfg["paths"]["interim"])
-raw_dir = Path(cfg["paths"]["raw"])
-reports_tables = Path(cfg["paths"]["reports"]) / "tables"
-reports_tables.mkdir(parents=True, exist_ok=True)
+paths = cfg["paths"]
+interim = Path(paths["interim"])
+processed = Path(paths["processed"])
+raw = Path(paths["raw"])
+interim.mkdir(parents=True, exist_ok=True)
+processed.mkdir(parents=True, exist_ok=True)
 
-person = pd.read_csv(processed_dir / "person_wide.csv")
-q1_col = cfg["columns"]["writing_q1"]
-q2_col = cfg["columns"]["writing_q2"]
+Q1 = cfg["columns"]["writing_q1"]
+Q2 = cfg["columns"]["writing_q2"]
 
-# === A) Export texts for LIWC ===
-q1_dir = interim_dir / "liwc_texts" / "q1"
-q2_dir = interim_dir / "liwc_texts" / "q2"
-for d in (q1_dir, q2_dir):
-    d.mkdir(parents=True, exist_ok=True)
+def safe_text(x):
+    if not isinstance(x, str): return ""
+    # Strip Qualtrics artefacts, normalise whitespace
+    x = re.sub(r"\s+", " ", x).strip()
+    return x
 
-def write_txts(series, outdir, suffix):
-    manifest = []
-    for pid, text in series.fillna("").items():
-        filename = f"{pid}_{suffix}.txt"
-        (outdir / filename).write_text(str(text), encoding="utf-8")
-        wc = len(str(text).split())
-        manifest.append({"pid": pid, "filename": filename, "question": suffix, "wordcount": wc})
-    return pd.DataFrame(manifest)
+def export_texts():
+    # Use the latest person-wide if available, else fall back to raw-clean (interim)
+    candidates = [
+        processed / "person_wide.csv",
+        interim / "resp_raw_clean.csv"
+    ]
+    for f in candidates:
+        if f.exists():
+            df = pd.read_csv(f)
+            break
+    else:
+        raise FileNotFoundError("No person_wide.csv or resp_raw_clean.csv found")
 
-m1 = write_txts(person.set_index("pid")[q1_col], q1_dir, "Q1")
-m2 = write_txts(person.set_index("pid")[q2_col], q2_dir, "Q2")
-m = pd.concat([m1, m2], ignore_index=True)
-m.to_csv(interim_dir / "liwc_manifest.csv", index=False)
-print("Exported LIWC texts to:", q1_dir, "and", q2_dir)
+    if "pid" not in df.columns:
+        raise RuntimeError(f"No 'pid' column found in {f.name}. Ensure 00_load_and_qc.py has been run.")
+    df["pid"] = df["pid"].astype(str).str.strip()
+    for col in [Q1, Q2]:
+        if col not in df.columns:
+            df[col] = ""
 
-# === B) Merge LIWC outputs (after you run LIWC GUI) ===
-# Expect files: LIWC2022_Writing_Q1.csv and LIWC2022_Writing_Q2.csv in data/raw/
-q1_file = raw_dir / "LIWC2022_Writing_Q1.csv"
-q2_file = raw_dir / "LIWC2022_Writing_Q2.csv"
+    base = interim / "liwc_texts"
+    (base / "WritingTask_Q1").mkdir(parents=True, exist_ok=True)
+    (base / "WritingTask_Q2").mkdir(parents=True, exist_ok=True)
 
-def load_liwc_csv(path):
-    if not path.exists():
-        return None
+    out_rows_q1, out_rows_q2 = [], []
+    for _, r in df.iterrows():
+        pid = str(r["pid"])
+        t1 = safe_text(r.get(Q1, ""))
+        t2 = safe_text(r.get(Q2, ""))
+        # one file per pid per question (LIWC likes per-file units)
+        (base / "WritingTask_Q1" / f"{pid}.txt").write_text(t1)
+        (base / "WritingTask_Q2" / f"{pid}.txt").write_text(t2)
+        out_rows_q1.append({"pid": pid, "text": t1})
+        out_rows_q2.append({"pid": pid, "text": t2})
+
+    pd.DataFrame(out_rows_q1).to_csv(base / "q1.csv", index=False)
+    pd.DataFrame(out_rows_q2).to_csv(base / "q2.csv", index=False)
+    print(f"Exported texts to {base}/WritingTask_Q1 and WritingTask_Q2, with q1.csv/q2.csv")
+
+def _read_liwc_csv(path):
     df = pd.read_csv(path)
-    # Expect a 'Filename' column that contains the txt file names
-    # Standard columns include: WC, Analytic, Clout, Authentic, Tone, and category columns like 'cogproc','insight','cause','tentat','certain','number','quant','sixltr'
-    # Normalise column names to lower-case
-    df.columns = [c.strip().lower() for c in df.columns]
-    if "filename" not in df.columns:
-        # try alternative
-        cand = [c for c in df.columns if "file" in c]
-        if cand:
-            df.rename(columns={cand[0]: "filename"}, inplace=True)
+    # Typical LIWC columns: Filename, Segment, WC, Analytic, Clout, Authentic, Tone, ...
+    # Map pid from Filename (strip extension)
+    name_col = None
+    for c in df.columns:
+        if str(c).lower() in ("filename","file","doc","document"): 
+            name_col = c; break
+    if name_col is None:
+        raise RuntimeError(f"Could not find a filename column in {path}")
+    df["pid"] = df[name_col].astype(str).str.replace(r"\\.txt$","",regex=True)
     return df
 
-liwc_q1 = load_liwc_csv(q1_file)
-liwc_q2 = load_liwc_csv(q2_file)
+REFLECTIVE_CANDIDATES = [
+    "Analytic","Clout","Authentic","Tone",
+    "CogProc","CognitiveProcesses","Cognition",
+    "Insight","Cause","Causal","Tentat","Differ","Quant","Number",
+    "Work","Achieve","WC","WPS"
+]
 
-if liwc_q1 is None or liwc_q2 is None:
-    print(">>> Place LIWC outputs in data/raw/ as LIWC2022_Writing_Q1.csv and LIWC2022_Writing_Q2.csv, then re-run this script to merge.")
-else:
-    # parse pid back from filename "<pid>_Q1.txt"
-    def parse_pid(s):
-        m = re.match(r"^(.+?)_(Q1|Q2)\.txt$", s)
-        return m.group(1) if m else None
-    liwc_q1["pid"] = liwc_q1["filename"].apply(parse_pid)
-    liwc_q2["pid"] = liwc_q2["filename"].apply(parse_pid)
+def merge_liwc(q1_csv, q2_csv):
+    liwc1 = _read_liwc_csv(q1_csv); liwc1["writing_task"] = "Q1"
+    liwc2 = _read_liwc_csv(q2_csv); liwc2["writing_task"] = "Q2"
+    liwc = pd.concat([liwc1, liwc2], ignore_index=True, sort=False)
 
-    # Select fields
-    keep = ["pid","filename","wc","analytic","clout","authentic","tone",
-            "cogproc","insight","cause","tentat","certain","number","quant","sixltr"]
-    for df in (liwc_q1, liwc_q2):
-        for c in keep:
-            if c not in df.columns:
-                df[c] = np.nan
+    # If multiple segments per pid, average weighted by WC
+    if "WC" in liwc.columns:
+        w = liwc["WC"].replace(0, np.nan)
+        grouped = []
+        for (pid, task), g in liwc.groupby(["pid","writing_task"]):
+            weights = g["WC"].replace(0, np.nan)
+            cols = [c for c in g.columns if c not in ["pid","writing_task"]]
+            num_cols = g[cols].select_dtypes(include=[np.number]).columns.tolist()
+            if len(num_cols)==0: 
+                agg = g.iloc[[0]].copy()
+            else:
+                agg_vals = g[num_cols].multiply(weights, axis=0).sum() / weights.sum()
+                agg = pd.DataFrame([agg_vals])
+            agg["pid"] = pid; agg["writing_task"] = task
+            grouped.append(agg)
+        liwc_agg = pd.concat(grouped, ignore_index=True, sort=False)
+    else:
+        liwc_agg = (liwc.groupby(["pid","writing_task"]).mean(numeric_only=True).reset_index())
 
-    liwc_q1 = liwc_q1[keep].copy(); liwc_q1["question"]="Q1"
-    liwc_q2 = liwc_q2[keep].copy(); liwc_q2["question"]="Q2"
-    liwc_all = pd.concat([liwc_q1, liwc_q2], ignore_index=True)
+    # wide by task suffix
+    wide = liwc_agg.pivot(index="pid", columns="writing_task")
+    wide.columns = ["{}_{}".format(a, b) for a,b in wide.columns]
+    wide = wide.reset_index()
 
-    # Pivot to wide per PID with Q1/Q2 suffixes
-    def pivot_suffix(df, var):
-        wide = df.pivot_table(index="pid", columns="question", values=var, aggfunc="first")
-        wide.columns = [f"{var}_{c}" for c in wide.columns]
-        return wide
+    # join onto person_wide
+    pw = pd.read_csv(processed / "person_wide.csv")
+    if "pid" not in pw.columns:
+        raise RuntimeError("person_wide.csv has no 'pid' column. Ensure 00_load_and_qc.py has been run.")
+    pw["pid"] = pw["pid"].astype(str).str.strip()
+    # Clean PIDs in wide format to remove .txt extension if present
+    wide["pid"] = wide["pid"].astype(str).str.replace(r"\.txt$", "", regex=True).str.strip()
+    out = pw.merge(wide, on="pid", how="left")
+    out.to_csv(processed / "person_with_liwc.csv", index=False)
+    wide.to_csv(processed / "liwc_merged.csv", index=False)
 
-    vars_out = ["wc","analytic","clout","authentic","tone","cogproc","insight","cause","tentat","certain","number","quant","sixltr"]
-    parts = [pivot_suffix(liwc_all, v) for v in vars_out]
-    liwc_wide = pd.concat(parts, axis=1)
+    # save a list of the LIWC variables we'll consider
+    liwc_vars = [c for c in out.columns for key in REFLECTIVE_CANDIDATES if key.lower() in c.lower()]
+    pd.DataFrame({"liwc_var": sorted(set(liwc_vars))}).to_csv(processed / "liwc_var_list.csv", index=False)
 
-    # Aggregate averages across Q1/Q2
-    avg = {}
-    for v in vars_out:
-        cols = [f"{v}_Q1", f"{v}_Q2"]
-        present = [c for c in cols if c in liwc_wide.columns]
-        if present:
-            avg[f"{v}_avg"] = liwc_wide[present].mean(axis=1, skipna=True)
-    liwc_wide = pd.concat([liwc_wide, pd.DataFrame(avg)], axis=1)
+    print("Merged LIWC -> data/processed/person_with_liwc.csv and liwc_merged.csv")
+    print(f"Candidate LIWC variables list: data/processed/liwc_var_list.csv (n={len(set(liwc_vars))})")
+    
+    # Also create naive subset if person_naive.csv exists
+    naive_path = processed / "person_naive.csv"
+    if naive_path.exists():
+        naive = pd.read_csv(naive_path)[["pid"]]
+        naive["pid"] = naive["pid"].astype(str).str.strip()
+        
+        naive_out = naive.merge(out, on="pid", how="inner")
+        naive_out.to_csv(processed / "person_naive_with_liwc.csv", index=False)
+        print(f"Also created naive subset -> person_naive_with_liwc.csv (n={len(naive_out)})")
+    else:
+        print("Note: person_naive.csv not found, skipping naive subset creation. Run 02_make_splits.py first if needed.")
 
-    # Build RLI and residualise by WC_avg
-    def zscore(s):
-        return (s - s.mean())/s.std(ddof=0) if s.std(ddof=0) not in (0, np.nan) else s*0
+if __name__ == "__main__":
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--mode", choices=["export","merge"], required=True, 
+                   help="export: Export texts for LIWC analysis; merge: Merge LIWC results (creates both full and naive datasets)")
+    ap.add_argument("--q1", default=str(raw / "LIWC_Q1.csv"))
+    ap.add_argument("--q2", default=str(raw / "LIWC_Q2.csv"))
+    args = ap.parse_args()
 
-    # Choose number or quant (use whichever exists)
-    num_series = liwc_wide.get("number_avg", liwc_wide.get("quant_avg", pd.Series(index=liwc_wide.index, dtype=float)))
-
-    rli = (
-        zscore(liwc_wide.get("analytic_avg")) +
-        zscore(liwc_wide.get("cogproc_avg")) +
-        0.5*zscore(liwc_wide.get("insight_avg")) +
-        0.5*zscore(liwc_wide.get("cause_avg")) +
-        0.5*zscore(liwc_wide.get("tentat_avg")) +
-        0.5*zscore(num_series) +
-        0.5*zscore(liwc_wide.get("sixltr_avg")) -
-        0.5*zscore(liwc_wide.get("certain_avg"))
-    )
-    liwc_wide["RLI"] = rli
-
-    wc_avg = liwc_wide.get("wc_avg", liwc_wide.filter(regex=r"^wc_").mean(axis=1))
-    wc_avg = wc_avg.fillna(0).values.reshape(-1,1)
-    rli_vals = liwc_wide["RLI"].fillna(0).values.reshape(-1,1)
-    # Residualise via OLS
-    reg = LinearRegression().fit(wc_avg, rli_vals)
-    rli_resid = rli_vals - reg.predict(wc_avg)
-    liwc_wide["RLI_resid"] = rli_resid
-
-    # Merge into person files
-    person_naive = pd.read_csv(processed_dir / "person_naive.csv")
-    person_full = pd.read_csv(processed_dir / "person_full.csv")
-    person_naive = person_naive.merge(liwc_wide, left_on="pid", right_index=True, how="left")
-    person_full = person_full.merge(liwc_wide, left_on="pid", right_index=True, how="left")
-
-    person_naive.to_csv(processed_dir / "person_naive_liwc.csv", index=False)
-    person_full.to_csv(processed_dir / "person_full_liwc.csv", index=False)
-    liwc_wide.to_csv(processed_dir / "liwc_wide.csv", index=False)
-    print("Merged LIWC into person files.")
+    if args.mode == "export":
+        export_texts()
+    else:  # merge
+        merge_liwc(args.q1, args.q2)

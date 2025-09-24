@@ -1,0 +1,6 @@
+subset,items,n_items,n_used,tif_area
+bcrt_core3,"bcrt_q2,bcrt_q3,bcrt_q6",3,3,4.828829391268142
+bcrt_core4,"bcrt_q2,bcrt_q3,bcrt_q4,bcrt_q6",4,4,5.935817419154131
+crt2_plus_core3,"bcrt_q2,bcrt_q3,bcrt_q6,(all CRT2)",3,7,14.219353351168724
+crt2_plus_core4,"bcrt_q2,bcrt_q3,bcrt_q4,bcrt_q6,(all CRT2)",4,8,15.326341379054714
+crt2_plus_bcrt_all,(all BCRT) + (all CRT2),6,10,16.720805554742444

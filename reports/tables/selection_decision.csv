@@ -1,3 +1,3 @@
-,0
-decision,keep_best_4
-keep_items,"crt2_q3,crt2_q2,crt2_q4,bcrt_q2"
+label,k,keep_items,score,kr20,citc_mean,tif_area,liwc_sig_cnt,liwc_mean_abs_beta,nfc_beta_std,deltaR2_mean,n_obs_liwc
+Core-3,3,"bcrt_q2,bcrt_q3,bcrt_q6",0.7985,0.4788,0.2846,4.4682,0,0.1178,-0.1049,0.0219,51
+Core-4,4,"bcrt_q2,bcrt_q3,bcrt_q4,bcrt_q6",0.9816,0.5062,0.2894,5.2074,0,0.0864,-0.0646,0.0144,51
