@@ -1,12 +1,39 @@
-# src/07_liwc_families.py  
-# Comprehensive LIWC/NFC convergent validity analysis
-# Includes proper NFC scoring (9 forward, 9 reverse items) and LIWC family regressions
-# with HC3 SEs, 95% CI, standardised betas, and family-wise adjustment (BH-FDR).
-# Outputs:
-#   reports/tables/liwc_predict_families_combined.csv (both datasets)
-#   reports/tables/liwc_predict_families_full.csv    (full dataset)  
-#   reports/tables/liwc_predict_families_naive.csv   (naive dataset)
-#   reports/tables/nfc_correlations.csv              (NFC-CRT correlations)
+# src/06_convergent_validity.py
+# LIWC/NFC convergent validity and GLMM analyses
+#
+# What this script does
+# - Applies correct NFC scoring (9 forward, 9 reverse) and propagates updated NFC_total
+#   back to person files in data/processed/.
+# - Ensures dynamic BCRT Core-3/Core-4 totals from reports/tables/selection_decision.csv
+#   when missing in person files; also constructs composite predictors
+#   crt2_plus_core3_total and crt2_plus_core4_total.
+# - Runs OLS with HC3 SEs across LIWC families and predictor sets (CRT2, Core3, Core4,
+#   and composites). Reports 95% CI, standardised betas, and applies BH–FDR within
+#   (dataset, family, set, predictor) groups.
+# - Provides a primary stacked Q1/Q2 analysis per family with pid-clustered SEs (CRT2-only).
+# - Fits binomial/beta-binomial mixed models via R glmmTMB (random intercept by pid) for
+#   LIWC families using derived counts; falls back to cluster-robust binomial GLM if R is
+#   unavailable.
+# - Includes a focused Mosleh-targets analysis (by-block OLS, stacked cluster-robust OLS,
+#   and GLMM), with separate tables and figures.
+# - Renders figures (forest plots and combined heatmaps) for families and Mosleh targets.
+# - Writes LIWC variable manifests for auditing available variables.
+#
+# Key outputs (CSV)
+# - reports/tables/liwc_predict_families_combined.csv
+# - reports/tables/liwc_predict_families_full.csv
+# - reports/tables/liwc_predict_families_naive.csv
+# - reports/tables/liwc_families_stacked_crt2.csv
+# - reports/tables/liwc_families_glmm_crt_sets.csv
+# - reports/tables/mosleh_liwc/mosleh_liwc_byblock_{combined,full,naive}.csv
+# - reports/tables/mosleh_liwc/mosleh_liwc_glmm_{combined,full,naive}.csv
+# - reports/tables/nfc_correlations.csv
+# - reports/tables/liwc_variables_manifest_{full,naive}.csv
+# - data/processed/person_* files updated with corrected NFC_total
+#
+# Key outputs (figures)
+# - reports/figures/glmm_families/<dataset>/* (forest plots and combined heatmaps)
+# - reports/figures/mosleh_liwc/glmm/<dataset>/* (forest plots and combined heatmaps)
 
 import os
 import pandas as pd, numpy as np, statsmodels.api as sm

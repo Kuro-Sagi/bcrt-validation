@@ -1,35 +1,33 @@
 """
-LIWC–CRT exploratory correlations (FULL dataset)
+LIWC–CRT exploratory correlations (FULL and NAIVE datasets)
+
+Why this is exploratory
+- The goal is to surface patterns rather than produce inferentially adjusted,
+  model-based estimates. We compute unadjusted Pearson correlations across a
+  broad set of LIWC child variables and multiple predictors, apply simple
+  p<.05 flags (no multiplicity correction), and visualise the landscape. This
+  helps generate hypotheses and guide deeper analyses performed in
+  06_convergent_validity.py (which includes HC3/clustered SEs and BH–FDR).
 
 What this script does
-- Reads the LIWC variable manifest (full) to identify LIWC child variables
-  (excludes summary/parent totals).
-- Loads `data/processed/person_with_liwc.csv`, ensures Core3/Core4 and composite
-  totals (`crt2_plus_core3_total`, `crt2_plus_core4_total`) are available, and
-  computes corrected `nfc_total` if NFC items are present.
+- Reads the LIWC variable manifest for each dataset to identify granular LIWC
+  child variables (excludes summary/parent totals and operational columns).
+- Loads person files (`person_with_liwc.csv` for full, `person_naive_with_liwc.csv`
+  for naive), ensures Core3/Core4 totals and composite predictors exist, and
+  computes corrected `nfc_total` when NFC items are present.
 - Collapses LIWC Q1/Q2 into a single value per participant using a WC-weighted
-  average when possible (falls back to simple mean, or a single available block).
-- Computes Pearson correlations (r and two-sided p) between the LIWC child
-  variables and the following predictors:
-    - crt2_total ("CRT2")
-    - bcrt_core3_total ("Core3")
-    - bcrt_core4_total ("Core4")
-    - crt2_plus_core3_total ("CRT2+Core3")
-    - crt2_plus_core4_total ("CRT2+Core4")
-    - combined10_total ("CRT2+BCRT(all)")
-    - nfc_total ("NFC")
-- Saves long and wide correlation tables, and renders a heatmap where:
-    - Y-axis = LIWC child variables (ordered by average |r| across predictors: low → high)
-    - X-axis = predictors (ordered by #significant correlations, then mean |r|)
-    - Cells show signed r; significance indicated with a star for p<.05 (no correction)
-- Produces a human-readable summary grouping significant LIWC variables by
-  category for each predictor, ordered by |r|.
+  average when possible (falls back to simple mean or single available block).
+- Computes Pearson correlations (r, two-sided p) between LIWC children and the
+  following predictors (as available with variance): CRT2, Core3, Core4,
+  CRT2+Core3, CRT2+Core4, CRT2+BCRT(all), NFC.
+- Writes long- and wide-form correlation tables and a heatmap of signed r with
+  simple p<.05 overlays, plus a human-readable summary grouped by LIWC category.
 
 Outputs
-- reports/tables/liwc_exploration/correlations_long.csv
-- reports/tables/liwc_exploration/correlations_wide_r.csv
-- reports/tables/liwc_exploration/summary_by_predictor.md
-- reports/figures/liwc_exploration/heatmap_correlations.png (.pdf)
+- reports/tables/liwc_exploration/<dataset>/correlations_long.csv
+- reports/tables/liwc_exploration/<dataset>/correlations_wide_r.csv
+- reports/tables/liwc_exploration/<dataset>/summary_by_predictor.md
+- reports/figures/liwc_exploration/<dataset>/heatmap_correlations.png (.pdf)
 """
 
 from pathlib import Path
